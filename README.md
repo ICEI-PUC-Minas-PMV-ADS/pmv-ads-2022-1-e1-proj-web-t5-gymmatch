@@ -8,12 +8,21 @@
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
+Nosso projeto surgiu da observação da curva de frequentadores de academias no Brasil que nos meses que antecedem o verão
+esse curva tende a subir e em contrapartida, nos meses próximos ao inverno essa curva despenca.
+Diante disso, torna-se fundamental a existência de estratégias que utilizem a tecnologia para estimular os alunos de academias
+a prática de exercícios durante os dias frios, ressaltando a importância da atividade física de forma regular e constante.
+Conforme exposto, o problema que se busca resolver com este projeto é a redução da frequência de alunos em academias nos períodos
+sazonais, principalmente, no inverno.
+
 ## Integrantes
 
 * Matheus de Jesus Santos
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Maria Luiza Barbosa
+* Flávia Cerqueira
+* Welbscley Lucas
+* Roberto Gontijo
+* Raul Vitor de Resende
 
 ## Orientador
 
