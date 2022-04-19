@@ -68,7 +68,8 @@ Apresente também uma figura explicando como as tecnologias estão relacionadas 
 
 ## Hospedagem
 
-Explique como a hospedagem e o lançamento da plataforma foi feita.
+O site utiliza a plataforma do Github como ambiente de hospedagem do site do projeto.
+ 
 
 > **Links Úteis**:
 >
