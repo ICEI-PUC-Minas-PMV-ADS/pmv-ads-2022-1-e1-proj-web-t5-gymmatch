@@ -1,26 +1,125 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+A definição exata do problema e os pontos mais relevantes a serem tratados neste projeto foi consolidada com a participação dos usuários em um trabalho de imersão feita pelos membros da equipe a partir da observação dos usuários em seu local natural e por meio de entrevistas. Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários.
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+As personas levantadas durante o processo de entendimento do problema são apresentadas na Figuras que se seguem.
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+ 
+Clara Rezende
+	Idade: 26
+Ocupação: Educadora infantil.	Aplicativos:
+•	Instagram
+•	Facebook
+Motivações
+	Aumento da qualida-de de vida;
+	Melhorar o seu con-dicionamento físico;
+	Possui uma lesão do joelho.	Frustrações
+	Dificuldade para en-caixar uma rotina de treino adaptada;
+	Manter a frequência de treino nos dias frios;
+	Dificuldade de manter uma alimentação saudável;
+	Quer ter acesso a ficha de treino pela Web.	Hobbies, História
+	Clara é apaixonada por corrida, mas de-vido a sua lesão op-tou por treinar em uma academia;
+	Tem como principal interesse treinos que foque no aeróbico.
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Arthur Souza
+	Idade: 45
+Ocupação: Mecânico, trabalha em diversas concessionarias de carros.	Aplicativos:
+•	Facebook.
+Motivações
+	Perda de peso;
+	Melhora da sua condição física e de sua respiração;
+	Recomendação médica.
+	Frustrações
+	Muita dificuldade para executar os exercícios;
+	Pouca disciplina para manter uma rotina de treinos;
+	Dificuldade em manter uma dieta balanceada;
+	Mensalidade muito cara para sua renda.	Hobbies, História
+	Arthur nunca foi de praticar atividades físicas, mas devido a orientação médica, ele precisa praticar para controlar suas doenças crônica;
+	Tem histórico de problemas cardíacos na família, sente necessidade de melhorar os seus hábitos alimentares.
+
+
+ 	Marcelo Falcão
+	Idade: 27
+Ocupação: Músico, cantor, compositor e influenciador digital. 	Aplicativos:
+	Facebook;
+	WhatsApp;
+	You tube;
+	Instagram.
+Motivações
+	Atingir 10 milhões de seguidores em suas redes sociais;
+	Ter uma carreira musical consolidada no exterior;
+	Ser premiado com o Grammy;
+	Estético/metrossexual.	Frustrações
+	Usuário de drogas;
+	Consome muitos alimentos industrializados;
+	Frequenta academia apenas no verão;
+	Dorme no máximo 04 horas por dia;
+	Dificuldade de alimentar antes do treino.	Hobbies, História
+	Frequentador de festas e baladas;
+	Aptidão musical apresentada quando Marcelo Falcão era criança e foi presenteado com um violão.
+
+
+ 	Rafaela Santos
+	Idade: 28
+Ocupação: Personal Trainer, nutróloga. 	Aplicativos:
+	Instagram;
+	Twitter;
+	Tiktok.
+Motivações
+	Hipertrofia;
+	Saúde e bem estar;
+	Conhecimento nutricional dos alimentos.	Frustrações
+	Ausência dos alunos durante os treinos em períodos frios;
+	A falta de informações que seus alunos possuem sobre informações nutricionais dos alimentos; 
+	Falta de incentivo das academias para que os alunos pratiquem atividades diferentes.	Hobbies, História
+	Praticar exercícios físicos;
+	Passear com pet;
+	Leitura e comparti-lhar conhecimento;
+	Nutrição e saúde;
+	Influenciadora digital e criadora de conte-údo fit;
+	Participa de aulas de yoga.
+
+
+
+	Ângelo Rodrigues
+	Idade: 35
+Ocupação: Contador.
+Empreendedor (dono de academia).	Aplicativos:
+	Instagram;
+	Facebook;
+	Twitter.
+Motivações
+	Crescimento do em-preendimento;
+	Trazer inovação para o seu negócio;
+	Investimentos;
+	Abrir novas unidades da academia.	Frustrações
+	Taxas de juros ele-vadas sem retornos;
+	Pouco incentivo go-vernamental;
+	Pouca receita da academia em perío-dos sazonais.	Hobbies, História
+	Prática de atividade física, em específico ciclismo;
+	Leitura;
+	Gosta de participar de eventos sobre empreendedorismo.
+
 
 ## Histórias de Usuários
 
