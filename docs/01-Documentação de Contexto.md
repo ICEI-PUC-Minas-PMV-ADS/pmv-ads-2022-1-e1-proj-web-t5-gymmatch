@@ -12,10 +12,7 @@ Diante disso, torna-se fundamental a existência de estratégias que utilizem a 
 ## Problema
 Conforme exposto, o problema que se busca resolver com este projeto é a redução da frequência de alunos em academias nos períodos sazonais, principalmente, no inverno.
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+
 
 ## Objetivos
 
@@ -26,8 +23,6 @@ Como objetivos específicos, podemos ressaltar:
 	Criar programas de fidelização com benefícios para os alunos que frequentarem a academia regularmente no decorrer do ano.
 
  
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
@@ -37,8 +32,6 @@ Em uma academia da cidade de Tatuí no estado de São Paulo, por exemplo, a freq
 A diminuição da frequência dos alunos nas academias no inverno ocasiona prejuízos econômicos para os empresários que precisam adaptar a gestão do negócio à redução de faturamento e aos alunos que durante o inverno não praticam atividades físicas.
 
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
@@ -47,9 +40,3 @@ Esse projeto tem como objetivo analisar pessoas fisicamente ativas que se preocu
 Desta forma, estabeleceu-se como público-alvo desta solução homens e mulheres entre 18 e 60 anos, estudantes e trabalhadores que praticam atividade física durante o verão, porém, no inverno eles não conseguem manter esta frequência.
  
 
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
