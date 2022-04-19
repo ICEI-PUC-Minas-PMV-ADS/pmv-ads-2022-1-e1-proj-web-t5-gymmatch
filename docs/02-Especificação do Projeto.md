@@ -8,113 +8,113 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
  
 Clara Rezende <br/>
-	Idade: 26
-Ocupação: Educadora infantil.	
-Aplicativos:
-• Instagram
-• Facebook
-Motivações:
-• Aumento da qualida-de de vida;
-• Melhorar o seu con-dicionamento físico;
-• Possui uma lesão do joelho.	
-Frustrações:
-• Dificuldade para en-caixar uma rotina de treino adaptada;
-• Manter a frequência de treino nos dias frios;
-• Dificuldade de manter uma alimentação saudável;
-• Quer ter acesso a ficha de treino pela Web.	
-Hobbies, História:
-• Clara é apaixonada por corrida, mas de-vido a sua lesão op-tou por treinar em uma academia;
-• Tem como principal interesse treinos que foque no aeróbico.
+	Idade: 26 <br/>
+Ocupação: Educadora infantil. <br/>	
+Aplicativos: <br/>
+• Instagram <br/>
+• Facebook  <br/>
+Motivações: <br/>
+• Aumento da qualida-de de vida; <br/>
+• Melhorar o seu con-dicionamento físico; <br/>
+• Possui uma lesão do joelho. <br/>	
+Frustrações: <br/>
+• Dificuldade para en-caixar uma rotina de treino adaptada; <br/>
+• Manter a frequência de treino nos dias frios; <br/>
+• Dificuldade de manter uma alimentação saudável; <br/>
+• Quer ter acesso a ficha de treino pela Web. <br/>	
+Hobbies, História: <br/>
+• Clara é apaixonada por corrida, mas de-vido a sua lesão op-tou por treinar em uma academia; <br/>
+• Tem como principal interesse treinos que foque no aeróbico. <br/>
 
-Arthur Souza
-	Idade: 45
-Ocupação: Mecânico, trabalha em diversas concessionarias de carros.	
-Aplicativos:
-• Facebook.
-Motivações:
-• Perda de peso;
-• Melhora da sua condição física e de sua respiração;
-• Recomendação médica.
-Frustrações:
-• Muita dificuldade para executar os exercícios;
-• Pouca disciplina para manter uma rotina de treinos;
-• Dificuldade em manter uma dieta balanceada;
-• Mensalidade muito cara para sua renda.	
-Hobbies, História:
-• Arthur nunca foi de praticar atividades físicas, mas devido a orientação médica, ele precisa praticar para controlar suas doenças crônica;
-• Tem histórico de problemas cardíacos na família, sente necessidade de melhorar os seus hábitos alimentares.
-
-
- Marcelo Falcão
-	Idade: 27
-Ocupação: Músico, cantor, compositor e influenciador digital. 	
-Aplicativos:
-• Facebook;
-• WhatsApp;
-• You tube;
-• Instagram.
-Motivações:
-•Atingir 10 milhões de seguidores em suas redes sociais;
-• Ter uma carreira musical consolidada no exterior;
-• Ser premiado com o Grammy;
-• Estético/metrossexual.	
-Frustrações:
-• Usuário de drogas;
-• Consome muitos alimentos industrializados;
-• Frequenta academia apenas no verão;
-• Dorme no máximo 04 horas por dia;
-• Dificuldade de alimentar antes do treino.	
-Hobbies, História:
-• Frequentador de festas e baladas;
-• Aptidão musical apresentada quando Marcelo Falcão era criança e foi presenteado com um violão.
+Arthur Souza <br/>
+	Idade: 45 <br/>
+Ocupação: Mecânico, trabalha em diversas concessionarias de carros. <br/>	
+Aplicativos: <br/>
+• Facebook. <br/>
+Motivações: <br/>
+• Perda de peso; <br/>
+• Melhora da sua condição física e de sua respiração; <br/>
+• Recomendação médica. <br/>
+Frustrações: <br/>
+• Muita dificuldade para executar os exercícios; <br/>
+• Pouca disciplina para manter uma rotina de treinos; <br/>
+• Dificuldade em manter uma dieta balanceada; <br/>
+• Mensalidade muito cara para sua renda. <br/>	
+Hobbies, História: <br/>
+• Arthur nunca foi de praticar atividades físicas, mas devido a orientação médica, ele precisa praticar para controlar suas doenças crônica; <br/>
+• Tem histórico de problemas cardíacos na família, sente necessidade de melhorar os seus hábitos alimentares. <br/>
 
 
- Rafaela Santos
-	Idade: 28
-Ocupação: Personal Trainer, nutróloga. 	
-Aplicativos:
-• Instagram;
-• Twitter;
-• Tiktok.
-Motivações:
-• Hipertrofia;
-• Saúde e bem estar;
-• Conhecimento nutricional dos alimentos.	
-Frustrações:
-• Ausência dos alunos durante os treinos em períodos frios;
-• A falta de informações que seus alunos possuem sobre informações nutricionais dos alimentos; 
-• Falta de incentivo das academias para que os alunos pratiquem atividades diferentes.	
-Hobbies, História:
-• Praticar exercícios físicos;
-• Passear com pet;
-• Leitura e comparti-lhar conhecimento;
-• Nutrição e saúde;
-• Influenciadora digital e criadora de conte-údo fit;
-• Participa de aulas de yoga.
+ Marcelo Falcão <br/>
+	Idade: 27 <br/>
+Ocupação: Músico, cantor, compositor e influenciador digital. <br/>	 
+Aplicativos: <br/>
+• Facebook; <br/>
+• WhatsApp; <br/>
+• You tube; <br/>
+• Instagram. <br/>
+Motivações: <br/>
+•Atingir 10 milhões de seguidores em suas redes sociais; <br/>
+• Ter uma carreira musical consolidada no exterior; <br/>
+• Ser premiado com o Grammy; <br/>
+• Estético/metrossexual. <br/>	
+Frustrações: <br/>
+• Usuário de drogas; <br/>
+• Consome muitos alimentos industrializados; <br/>
+• Frequenta academia apenas no verão; <br/>
+• Dorme no máximo 04 horas por dia; <br/>
+• Dificuldade de alimentar antes do treino. <br/>	
+Hobbies, História: <br/>
+• Frequentador de festas e baladas; <br/>
+• Aptidão musical apresentada quando Marcelo Falcão era criança e foi presenteado com um violão. <br/>
+
+
+ Rafaela Santos <br/>
+	Idade: 28 <br/>
+Ocupação: Personal Trainer, nutróloga. <br/>	
+Aplicativos: <br/>
+• Instagram; <br/>
+• Twitter; <br/>
+• Tiktok. <br/>
+Motivações: <br/>
+• Hipertrofia; <br/>
+• Saúde e bem estar; <br/>
+• Conhecimento nutricional dos alimentos. <br/>	
+Frustrações: <br/>
+• Ausência dos alunos durante os treinos em períodos frios; <br/>
+• A falta de informações que seus alunos possuem sobre informações nutricionais dos alimentos; <br/> 
+• Falta de incentivo das academias para que os alunos pratiquem atividades diferentes. <br/>
+Hobbies, História: <br/>
+• Praticar exercícios físicos; <br/>
+• Passear com pet; <br/>
+• Leitura e comparti-lhar conhecimento; <br/>
+• Nutrição e saúde; <br/>
+• Influenciadora digital e criadora de conte-údo fit; <br/>
+• Participa de aulas de yoga. <br/>
 
 
 
-Ângelo Rodrigues
-	Idade: 35
-Ocupação: Contador.
-Empreendedor (dono de academia).	
-Aplicativos:
-• Instagram;
-• Facebook;
-• Twitter.
-Motivações:
-• Crescimento do em-preendimento;
-• Trazer inovação para o seu negócio;
-• Investimentos;
-• Abrir novas unidades da academia.	
-Frustrações:
-• Taxas de juros ele-vadas sem retornos;
-• Pouco incentivo go-vernamental;
-• Pouca receita da academia em perío-dos sazonais.	
-Hobbies, História:
-• Prática de atividade física, em específico ciclismo;
-• Leitura;
-• Gosta de participar de eventos sobre empreendedorismo.
+Ângelo Rodrigues <br/>
+	Idade: 35 <br/>
+Ocupação: Contador. <br/>
+Empreendedor (dono de academia). <br/>	
+Aplicativos: <br/>
+• Instagram; <br/>
+• Facebook; <br/>
+• Twitter. <br/>
+Motivações: <br/>
+• Crescimento do em-preendimento; <br/>
+• Trazer inovação para o seu negócio; <br/>
+• Investimentos; <br/>
+• Abrir novas unidades da academia. <br/>	
+Frustrações: <br/>
+• Taxas de juros ele-vadas sem retornos; <br/>
+• Pouco incentivo go-vernamental; <br/>
+• Pouca receita da academia em perío-dos sazonais. <br/>	
+Hobbies, História: <br/>
+• Prática de atividade física, em específico ciclismo; <br/>
+• Leitura; <br/>
+• Gosta de participar de eventos sobre empreendedorismo. <br/>
 
 
 ## Histórias de Usuários
