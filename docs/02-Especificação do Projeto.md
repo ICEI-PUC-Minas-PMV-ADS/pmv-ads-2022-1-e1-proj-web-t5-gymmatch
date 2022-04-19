@@ -124,36 +124,49 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Aluno Arthur Souza  | Desejo receber incentivos e descontos no período de inverno.       | Porque tenho dificuldade financeira para arcar com os custos da academia,  mas compreendo a necessidade para saúde    |
-|                    |                                    |                                        |
-|                    |                                    |                                        |
-       
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
+|Aluna Clara Rezende | Quero obter acesso aos conteúdos digitais, ficha de treino da minha academia preferida em um site próprio.| Tenho dificuldade em manter a alimentação saudável e necessidade de conteúdos digitais para me auxiliar.|
+|Personal trainer Rafaela Santos|Quero divulgar informações sobre hábitos saudáveis de alimentação em dias frios.|Hábitos saudáveis de alimentação em dias frios potencializam os resultados da prática de exercícios.|
+|Empresário Ângelo Rodrigues|Quero criar programas de fidelização para os alunos no período do inverno.|Porque os alunos perdem o foco nos períodos sazonais. Os programas de fidelização têm a função de cativar e manter os alunos motivados a frequentarem academias regularmente.| 
+|Empresário Ângelo Rodrigues|Quero melhorar a comunicação e a relação com os clientes.|Para que eu possa fortalecer o relacionamento com os clientes e fidelizá-los.| 
+|Empresário Ângelo Rodrigues|Desejo monitorar os acessos dos clientes através de ferramentas de marketing digital.|Para que eu possa obter dados sobre origens de tráfego, número total de visitantes, tempo de visita, idade, gênero, interesses e afinidades.|   
+|Aluno Arthur Souza  |Desejo ter acesso a informações nutricionais personalizadas de acordo com o meu histórico médico.|Para que eu possa saber os horários e os intervalos recomendados para alimentação, quantidade ideal e os tipos de alimentos indicados para as minhas necessidades.|   
+|Aluno Marcelo Falcão|Quero saber como fazer uma alimentação pré-treino.|Porque preciso ter energia e estar preparado para a realização das atividades durante os treinos na academia.|   
+|Aluna Clara Rezende | Desejo ter a possibilidade de participar de programas de fidelização e incentivo para ir na academia.|Para que eu possa receber atendimento vip com acompanhamento, antecipação de ofertas, receber cupons de descontos e brindes especiais.|   
+|Aluna Rafaela Santos|Quero participar de experiências positivas na academia, por meio de planos que não se limitem apenas ao direito de usar os aparelhos e, também, contribuir compartilhando o meu conhecimento em nutrição. |Porque eu desejo ter a possibilidade de ir para a academia ensinar outras modalidades. Além disso, quero que meus alunos tenham conteúdo para consultar quando estiverem com dúvidas sobre alimentação.|   
+|Aluno Marcelo Falcão|Desejo ter dicas e acompanhamento especial para obter resultados hipertróficos na academia.|Porque meu interesse em praticar atividades físicas está na melhora da minha aparência física, busco ter um corpo mais definido.|   
 
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+O escopo funcional do projeto é definido por meio dos requisitos funcionais que descrevem as possibilidades interação dos usuários, bem como os requisitos não funcionais que descrevem os aspectos que o sistema deverá apresentar de maneira geral. Estes requisitos são apresentados a seguir.
 
 ### Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| O site deve possuir uma área de depoimentos para os alunos relatarem suas experiencias.  | ALTA | 
+|RF-002| O site deve possuir soluções de marketing digital através da ferramenta Google Analytics.    | MÉDIA |
+|RF-003| O site deve possuir uma área de comunicação através de um formulário dedicado a receber sugestões de melhorias, feedback e mensagens dos alunos. | ALTA  |
+|RF-004| O site deve apresentar informações nutricionais personalizadas com horários e os intervalos recomendados para alimentação, quantidade ideal e os tipos de alimentos indicados para diferentes perfis de alunos. | ALTA  |
+|RF-005| O site deve apresentar informações sobre os alimentos recomendados para uma alimentação pré-treino. | ALTA  |
+|RF-006| O site deve informar aos clientes as vantagens de adesão ao programa de fidelização.  | MÉDIA |
+|RF-007| O site deve apresentar as experiências positivas vivenciadas pelos alunos que frequentam regularmente a academia. Experiencias que vão além da prática de exercícios físicos, como o contato com novas pessoas e o compartilhamento de experiências de qualidade de vida e cuidados com o corpo. | ALTA  |
+|RF-008| O site deve possuir uma página com dúvidas gerais para que os alunos possam consultar.  | MÉDIA |
+|RF-009| O site deve ter conteúdos sobre os benefícios de praticar atividade em dias frios. | ALTA  |
+|RF-010| O site deve apresentar um recurso para que o aluno possa agendar sua aula e ser notificado quando o treino estiver próximo. | ALTA  |
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku). | ALTA | 
+|RNF-002| O site deverá ser responsivo permitindo a visualização em um celular de forma adequada. |  ALTA |
+|RNF-003| O site deve ter bom nível de contraste entre os elementos da tela em conformidade. |  MÉDIA | 
+|RNF-004| O site deve ser compatível com os principais fontes e navegadores do mercado (Google Chrome, Firefox, Microsoft Edge). |  ALTA | 
+|RNF-005| Quando o usuário logar na plataforma, deverá ser realizado uma autenticação em captcha. |  MÉDIO | 
+|RNF-006| O usuário deve logar na plataforma com e-mail e senha para agendar a aula. |  MÉDIO | 
+|RNF-007| Uso de componentes gráficos (grids, barras de rolagem, menus). |  ALTA | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
@@ -172,12 +185,13 @@ todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 
-O projeto está restrito pelos itens apresentados na tabela a seguir.
+As questões que limitam a execução desse projeto e que se configuram como obrigações claras para o desenvolvimento do projeto em questão são apresentadas na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|01| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 26/06/2022. |
+|02| O aplicativo deve se restringir às tecnologias básicas da Web no Front End.       |
+|03| A equipe não pode subcontratar o desenvolvimento do trabalho.        |
 
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
