@@ -7,7 +7,7 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 As personas levantadas durante o processo de entendimento do problema são apresentadas na Figuras que se seguem.
 
  
-Clara Rezende
+Clara Rezende <br/>
 	Idade: 26
 Ocupação: Educadora infantil.	
 Aplicativos:
