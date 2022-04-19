@@ -9,116 +9,112 @@ As personas levantadas durante o processo de entendimento do problema são apres
  
 Clara Rezende
 	Idade: 26
-Ocupação: Educadora infantil.	Aplicativos:
-•	Instagram
-•	Facebook
-Motivações
-	Aumento da qualida-de de vida;
-	Melhorar o seu con-dicionamento físico;
-	Possui uma lesão do joelho.	Frustrações
-	Dificuldade para en-caixar uma rotina de treino adaptada;
-	Manter a frequência de treino nos dias frios;
-	Dificuldade de manter uma alimentação saudável;
-	Quer ter acesso a ficha de treino pela Web.	Hobbies, História
-	Clara é apaixonada por corrida, mas de-vido a sua lesão op-tou por treinar em uma academia;
-	Tem como principal interesse treinos que foque no aeróbico.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Ocupação: Educadora infantil.	
+Aplicativos:
+• Instagram
+• Facebook
+Motivações:
+• Aumento da qualida-de de vida;
+• Melhorar o seu con-dicionamento físico;
+• Possui uma lesão do joelho.	
+Frustrações:
+• Dificuldade para en-caixar uma rotina de treino adaptada;
+• Manter a frequência de treino nos dias frios;
+• Dificuldade de manter uma alimentação saudável;
+• Quer ter acesso a ficha de treino pela Web.	
+Hobbies, História:
+• Clara é apaixonada por corrida, mas de-vido a sua lesão op-tou por treinar em uma academia;
+• Tem como principal interesse treinos que foque no aeróbico.
 
 Arthur Souza
 	Idade: 45
-Ocupação: Mecânico, trabalha em diversas concessionarias de carros.	Aplicativos:
-•	Facebook.
-Motivações
-	Perda de peso;
-	Melhora da sua condição física e de sua respiração;
-	Recomendação médica.
-	Frustrações
-	Muita dificuldade para executar os exercícios;
-	Pouca disciplina para manter uma rotina de treinos;
-	Dificuldade em manter uma dieta balanceada;
-	Mensalidade muito cara para sua renda.	Hobbies, História
-	Arthur nunca foi de praticar atividades físicas, mas devido a orientação médica, ele precisa praticar para controlar suas doenças crônica;
-	Tem histórico de problemas cardíacos na família, sente necessidade de melhorar os seus hábitos alimentares.
+Ocupação: Mecânico, trabalha em diversas concessionarias de carros.	
+Aplicativos:
+• Facebook.
+Motivações:
+• Perda de peso;
+• Melhora da sua condição física e de sua respiração;
+• Recomendação médica.
+Frustrações:
+• Muita dificuldade para executar os exercícios;
+• Pouca disciplina para manter uma rotina de treinos;
+• Dificuldade em manter uma dieta balanceada;
+• Mensalidade muito cara para sua renda.	
+Hobbies, História:
+• Arthur nunca foi de praticar atividades físicas, mas devido a orientação médica, ele precisa praticar para controlar suas doenças crônica;
+• Tem histórico de problemas cardíacos na família, sente necessidade de melhorar os seus hábitos alimentares.
 
 
- 	Marcelo Falcão
+ Marcelo Falcão
 	Idade: 27
-Ocupação: Músico, cantor, compositor e influenciador digital. 	Aplicativos:
-	Facebook;
-	WhatsApp;
-	You tube;
-	Instagram.
-Motivações
-	Atingir 10 milhões de seguidores em suas redes sociais;
-	Ter uma carreira musical consolidada no exterior;
-	Ser premiado com o Grammy;
-	Estético/metrossexual.	Frustrações
-	Usuário de drogas;
-	Consome muitos alimentos industrializados;
-	Frequenta academia apenas no verão;
-	Dorme no máximo 04 horas por dia;
-	Dificuldade de alimentar antes do treino.	Hobbies, História
-	Frequentador de festas e baladas;
-	Aptidão musical apresentada quando Marcelo Falcão era criança e foi presenteado com um violão.
+Ocupação: Músico, cantor, compositor e influenciador digital. 	
+Aplicativos:
+• Facebook;
+• WhatsApp;
+• You tube;
+• Instagram.
+Motivações:
+•Atingir 10 milhões de seguidores em suas redes sociais;
+• Ter uma carreira musical consolidada no exterior;
+• Ser premiado com o Grammy;
+• Estético/metrossexual.	
+Frustrações:
+• Usuário de drogas;
+• Consome muitos alimentos industrializados;
+• Frequenta academia apenas no verão;
+• Dorme no máximo 04 horas por dia;
+• Dificuldade de alimentar antes do treino.	
+Hobbies, História:
+• Frequentador de festas e baladas;
+• Aptidão musical apresentada quando Marcelo Falcão era criança e foi presenteado com um violão.
 
 
- 	Rafaela Santos
+ Rafaela Santos
 	Idade: 28
-Ocupação: Personal Trainer, nutróloga. 	Aplicativos:
-	Instagram;
-	Twitter;
-	Tiktok.
-Motivações
-	Hipertrofia;
-	Saúde e bem estar;
-	Conhecimento nutricional dos alimentos.	Frustrações
-	Ausência dos alunos durante os treinos em períodos frios;
-	A falta de informações que seus alunos possuem sobre informações nutricionais dos alimentos; 
-	Falta de incentivo das academias para que os alunos pratiquem atividades diferentes.	Hobbies, História
-	Praticar exercícios físicos;
-	Passear com pet;
-	Leitura e comparti-lhar conhecimento;
-	Nutrição e saúde;
-	Influenciadora digital e criadora de conte-údo fit;
-	Participa de aulas de yoga.
+Ocupação: Personal Trainer, nutróloga. 	
+Aplicativos:
+• Instagram;
+• Twitter;
+• Tiktok.
+Motivações:
+• Hipertrofia;
+• Saúde e bem estar;
+• Conhecimento nutricional dos alimentos.	
+Frustrações:
+• Ausência dos alunos durante os treinos em períodos frios;
+• A falta de informações que seus alunos possuem sobre informações nutricionais dos alimentos; 
+• Falta de incentivo das academias para que os alunos pratiquem atividades diferentes.	
+Hobbies, História:
+• Praticar exercícios físicos;
+• Passear com pet;
+• Leitura e comparti-lhar conhecimento;
+• Nutrição e saúde;
+• Influenciadora digital e criadora de conte-údo fit;
+• Participa de aulas de yoga.
 
 
 
-	Ângelo Rodrigues
+Ângelo Rodrigues
 	Idade: 35
 Ocupação: Contador.
-Empreendedor (dono de academia).	Aplicativos:
-	Instagram;
-	Facebook;
-	Twitter.
-Motivações
-	Crescimento do em-preendimento;
-	Trazer inovação para o seu negócio;
-	Investimentos;
-	Abrir novas unidades da academia.	Frustrações
-	Taxas de juros ele-vadas sem retornos;
-	Pouco incentivo go-vernamental;
-	Pouca receita da academia em perío-dos sazonais.	Hobbies, História
-	Prática de atividade física, em específico ciclismo;
-	Leitura;
-	Gosta de participar de eventos sobre empreendedorismo.
+Empreendedor (dono de academia).	
+Aplicativos:
+• Instagram;
+• Facebook;
+• Twitter.
+Motivações:
+• Crescimento do em-preendimento;
+• Trazer inovação para o seu negócio;
+• Investimentos;
+• Abrir novas unidades da academia.	
+Frustrações:
+• Taxas de juros ele-vadas sem retornos;
+• Pouco incentivo go-vernamental;
+• Pouca receita da academia em perío-dos sazonais.	
+Hobbies, História:
+• Prática de atividade física, em específico ciclismo;
+• Leitura;
+• Gosta de participar de eventos sobre empreendedorismo.
 
 
 ## Histórias de Usuários
@@ -128,7 +124,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Administr           | Alterar permissões                 | Permitir que possam administrar contas |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
