@@ -53,7 +53,7 @@ Exemplificação do modelo de trabalho Git Flow
 
 ### Processo
 
-<p>O grupo utiliza a ferramentas Kanban para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.</p>
+<p>O grupo utiliza a ferramenta Kanban para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.</p>
  
 <p>O quadro kanban feito pelo grupo se encontra disponível no link https://trello.com/b/CYgE4Q9Q/gymmatch sendo apresentado no estado atual pela figura:</p>
 
@@ -72,9 +72,9 @@ Tela utilizada no Kanban ferramenta Trello<br>
 
 As ferramentas empregadas no projeto são:
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
+- Editor de código: Visual Studio Code.
+- Ferramentas de comunicação: WhatsApp e Microsoft Teams.
+- Ferramentas de desenho de tela (_wireframing_): Marvelapp e Whisical.
 
 O editor de código foi escolhido porque ele possui uma integração com o
 sistema de versão. As ferramentas de comunicação utilizadas possuem
@@ -82,35 +82,13 @@ integração semelhante e por isso foram selecionadas. Por fim, para criar
 diagramas utilizamos essa ferramenta por melhor captar as
 necessidades da nossa solução.
 
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
-
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue:
 
-Ambiente
-Plataforma
-Link de Acesso
-Repositório de 
-código fonte
-GitHub
-https://classroom.github.com/a/2Gkv4WVz
 
-Documentos do projeto
-Google Drive
-https://drive.google.com/drive/
-
-Projeto de Interface e Wireframes
-Marvelapp, Whisical
-https://marvelapp.com/prototype/dcd2346
-https://whimsical.com/gymmatch-67T732Lpb43T46NuchKnmp
-Meio de Comunicação do Grupo
-Whats app, Microsoft Teams
-https://web.whatsapp.com/
-https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software
-Gerenciamento de Projetos
-Trello
-https://trello.com/b/CYgE4Q9Q/gymmatch
-
+|Ambiente|Plataforma|Link de acesso|
+|--------|----------|--------------|
+|Repositório de código fonte|GitHub|https://classroom.github.com/a/2Gkv4WVz|
+|Documentos do projeto|Google Drive|https://drive.google.com/drive/|
+|Projeto de interface e Wireframes|Marvelapp,Whisical|https://marvelapp.com/prototype/dcd2346<br> https://whimsical.com/gymmatch-67T732Lpb43T46NuchKnmp|
+|Meio de comunicação do Grupo|Whats app,Microsoft Teams|https://web.whatsapp.com/<br> https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software|
+|Gerenciamento de projetos|Trello|https://trello.com/b/CYgE4Q9Q/gymmatch|
