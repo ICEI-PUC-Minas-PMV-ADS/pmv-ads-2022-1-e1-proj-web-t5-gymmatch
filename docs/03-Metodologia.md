@@ -29,6 +29,10 @@ etiquetas:
 
 
 <p>Para gestão do código fonte do software desenvolvido pela equipe, o grupo utiliza um processo baseado no Git Flow, publicado pela primeira vez e popularizado por Driessen em 2010.</p>
+
+<img src="img/gitflow.png" alt="Modelo de trabalho Git Flow"> <br>
+Exemplificação do modelo de trabalho Git Flow
+
 <p>Segundo Antunes (2021), o Git Flow delimita um método de branchs bem estabelecidos, concebidos e fundados pelas releases. Isto dá origem a uma base sólida que controla projetos maiores. O Git Flow trabalha com seis branchs ao todo, sendo o Develop e o Main os principais, que duram por todo projeto; enquanto Suporte, Feature, Bugfix e Hotfix que existem até se fundirem com as branches principais.</p>
 
 ## Gerenciamento de Projeto
