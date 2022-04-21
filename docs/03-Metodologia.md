@@ -1,8 +1,6 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
-
 <p>A metodologia diz respeito aos recursos e ferramentas que o grupo utilizou no nosso trabalho, para a concepção da nossa pesquisa escolhemos o método ágil, em específico o SCRUM, que seria segundo Fábio Cruz:</p>
 <p>Scrum é um framework estrutural que está sendo usado para gerenciar o desenvolvimento de produtos complexos desde o início da 1990. Scrum não é um processo ou uma técnica para construir produtos; em vez disso, é um framework dentro do qual você pode empregar vários processos ou técnica [...] esta definição consiste em papéis, eventos, artefatos e as regras do Scrum que unem os demais e os mantem integrados (CRUZ,2018).</p>
 
@@ -55,22 +53,20 @@ Exemplificação do modelo de trabalho Git Flow
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
+<p>O grupo utiliza a ferramentas Kanban para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.</p>
  
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+<p>O quadro kanban feito pelo grupo se encontra disponível no link https://trello.com/b/CYgE4Q9Q/gymmatch sendo apresentado no estado atual pela figura:</p>
 
-O quadro kanban feito pelo grupo se encontra disponível no link https://trello.com/b/CYgE4Q9Q/gymmatch.
+<img src="img/kanban.png" alt="Kanban ferramenta Trello">
 
-As etiquetas do projeto foram definidas como:
-    • Documentação
-    • Desenvolvimento
-    • Infraestrutura
-    • Testes
-    • Gerência de Projetos 
+Tela utilizada no Kanban ferramenta Trello<br>
+
+<p>As etiquetas do projeto foram definidas como:</p>
+    <p>• Documentação</p>
+    <p>• Desenvolvimento</p>
+    <p>• Infraestrutura</p>
+    <p>• Testes</p>
+    <p>• Gerência de Projetos</p>
 
 ### Ferramentas
 
