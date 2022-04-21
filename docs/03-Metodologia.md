@@ -44,17 +44,10 @@ etiquetas:
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
-
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-
-No processo ágil definido pelo grupo, se tornou necessário a divisão de tarefas especificadas pela metodologia do SCRUM, o grupo se organizou da seguinte forma:
-● Scrum Master: Roberto Gontijo
-● Product Owner: Welbscley Lucas
-● Equipe de Desenvolvimento: Matheus Santos, Raul Vitor, Maria Luiza Barbosa, Flávia Cerqueira, Rodrigo Pimentel
+<p>No processo ágil definido pelo grupo, se tornou necessário a divisão de tarefas especificadas pela metodologia do SCRUM, o grupo se organizou da seguinte forma:</p>
+<p>● Scrum Master: Roberto Gontijo</p>
+<p>● Product Owner: Welbscley Lucas</p>
+<p>● Equipe de Desenvolvimento: Matheus Santos, Raul Vitor, Maria Luiza Barbosa, Flávia Cerqueira, Rodrigo Pimentel</p>
 
 ### Processo
 
