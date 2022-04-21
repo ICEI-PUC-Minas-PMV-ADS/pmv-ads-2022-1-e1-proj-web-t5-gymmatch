@@ -3,10 +3,8 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
-
-A metodologia diz respeito aos recursos e ferramentas que o grupo utilizou no nosso trabalho, para a concepção da nossa pesquisa escolhemos o método ágil, em específico o SCRUM, que seria segundo Fábio Cruz:
-Scrum é um framework estrutural que está sendo usado para gerenciar o desenvolvimento de produtos complexos desde o início da 1990. Scrum não é um processo ou uma técnica para construir produtos; em vez disso, é um framework dentro do qual você pode empregar vários processos ou técnica [...] esta definição consiste em papéis, eventos, artefatos e as regras do Scrum que unem os demais e os mantem integrados (CRUZ,2018).
+<p>A metodologia diz respeito aos recursos e ferramentas que o grupo utilizou no nosso trabalho, para a concepção da nossa pesquisa escolhemos o método ágil, em específico o SCRUM, que seria segundo Fábio Cruz:</p>
+<p>Scrum é um framework estrutural que está sendo usado para gerenciar o desenvolvimento de produtos complexos desde o início da 1990. Scrum não é um processo ou uma técnica para construir produtos; em vez disso, é um framework dentro do qual você pode empregar vários processos ou técnica [...] esta definição consiste em papéis, eventos, artefatos e as regras do Scrum que unem os demais e os mantem integrados (CRUZ,2018).</p>
 
 ## Controle de Versão
 
@@ -29,29 +27,20 @@ etiquetas:
 - `enhancement`: uma funcionalidade precisa ser melhorada
 - `feature`: uma nova funcionalidade precisa ser introduzida
 
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
 
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
->  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
-> - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-> - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
-
-Para gestão do código fonte do software desenvolvido pela equipe, o grupo utiliza um processo baseado no Git Flow, publicado pela primeira vez e popularizado por Driessen em 2010.
-Segundo Antunes (2021), O Git Flow delimita um método de branchs bem estabelecidos, concebidos e fundados pelas releases. Isto dá origem a uma base sólida que controla projetos maiores. O Git Flow trabalha com seis branchs ao todo, sendo o Develop e o Main os principais, que duram por todo projeto; enquanto Suporte, Feature, Bugfix e Hotfix que existem até se fundirem com as branches principais.
-
+<p>Para gestão do código fonte do software desenvolvido pela equipe, o grupo utiliza um processo baseado no Git Flow, publicado pela primeira vez e popularizado por Driessen em 2010.</p>
+<p>Segundo Antunes (2021), o Git Flow delimita um método de branchs bem estabelecidos, concebidos e fundados pelas releases. Isto dá origem a uma base sólida que controla projetos maiores. O Git Flow trabalha com seis branchs ao todo, sendo o Develop e o Main os principais, que duram por todo projeto; enquanto Suporte, Feature, Bugfix e Hotfix que existem até se fundirem com as branches principais.</p>
 
 ## Gerenciamento de Projeto
 
-No que se diz respeito a divisão de funções e a organização do grupo, o grupo está utilizando a ferramenta Trello, que foi elaborado para trabalhar a base do método kanban, que foi estruturado da seguinte forma:
-    • Recursos e material: Este template tem como função a de identificar o significado das etiquetas empregadas na nossa pesquisa, juntamente com facilitar a busca de material acadêmico para a elaboração do projeto.
-    • Backlog: Representa o Product Backlog do nosso projeto, todas as atividades realizadas no decorrer se encontram presentes na lista.
-    • A fazer: Representa o Sprint Backlog, são as atividades que o grupo está realizando no momento
-    • Em andamento: Quando uma tarefa é iniciada, ela é movida para cá.
-    • Testes: Representam a checagem de Qualidade de uma determinada ferramenta desenvolvida. Quando as tarefas são testadas e aprovadas pela sua funcionalidade, eles são movidos para o “Concluído”.
-    • Concluido: Representa as tarefas finalizadas do trabalho, que não necessitam mais de revisão e que estão prontas para a entrega final.
-    • Trancado: Quando alguma coisa impede a conclusão da tarefa, ela é movida para esta lista juntamente com um comentário sobre o que está travando a tarefa.
+<p>No que se diz respeito a divisão de funções e a organização do grupo, o grupo está utilizando a ferramenta Trello, que foi elaborado para trabalhar a base do método kanban, que foi estruturado da seguinte forma:</p>
+    <p>• Recursos e material: Este template tem como função a de identificar o significado das etiquetas empregadas na nossa pesquisa, juntamente com facilitar a busca de material acadêmico para a elaboração do projeto.</p>
+    <p>• Backlog: Representa o Product Backlog do nosso projeto, todas as atividades realizadas no decorrer se encontram presentes na lista.</p>
+    <p>• A fazer: Representa o Sprint Backlog, são as atividades que o grupo está realizando no momento.</p>
+    <p>• Em andamento: Quando uma tarefa é iniciada, ela é movida para cá.</p>
+    <p>• Testes: Representam a checagem de Qualidade de uma determinada ferramenta desenvolvida. Quando as tarefas são testadas e aprovadas pela sua funcionalidade, eles são movidos para o “Concluído”.</p>
+    <p>• Concluido: Representa as tarefas finalizadas do trabalho, que não necessitam mais de revisão e que estão prontas para a entrega final.</p>
+    <p>• Trancado: Quando alguma coisa impede a conclusão da tarefa, ela é movida para esta lista juntamente com um comentário sobre o que está travando a tarefa.</p>
 
 ### Divisão de Papéis
 
