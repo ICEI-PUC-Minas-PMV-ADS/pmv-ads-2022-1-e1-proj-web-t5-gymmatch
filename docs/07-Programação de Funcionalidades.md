@@ -13,3 +13,27 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 > - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
 > - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
 > - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+
+
+
+<h1> Pagina inicial - RF-09 </h1>
+<br>
+<p> A pagina inicial apresenta em destaque a matéria Beneficios de praticar exercicios durante o inverno (rf09), e tambem faz conexão com todas as outras paginas do projeto através de blocos de conteudo com links das materias completas. 
+<br>
+<br>
+  
+<h2> Requisitos atendidos </h2>
+  <strong> RF-09 </strong>
+  
+
+ <h2> Artefatos de funcionalidade </h2>
+   artefatos usados para o desenvolvimento da pagina
+ 
+> - index.css
+> - index.html
+> - alimentacao.jpg
+> - cartoon.jpg
+> - alunos.jpg
+
+<h2> Estrutura de Dados </h2>
+</p>
