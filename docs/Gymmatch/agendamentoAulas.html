@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="pt_BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+    rel="icon"
+    type="image/x-icon"
+    href="https://cdn-icons-png.flaticon.com/512/952/952765.png"
+  />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css"
+      integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="agendamentoAulas.css" />
+    <title>Agendamentos</title>
+  </head>
+  <body>
+    <!--Cabeçalho inicio-->
+    <header>
+      <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="index.html"
+          >Gym<span class="cor">match</span></a
+        >
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-toggle="collapse"
+          data-target="#navbarText"
+          aria-controls="navbarText"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarText">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+              <a class="link" href="beneficios.html"
+                >Benefícios <span class="sr-only">(current)</span></a
+              >
+            </li>
+            <li class="nav-item active">
+              <a class="link" href="#"
+                >Informações Nutricionais
+                <span class="sr-only">(current)</span></a
+              >
+            </li>
+            <li class="nav-item active">
+              <a class="link" href="duvidasGerais.html">Duvidas</a>
+            </li>
+            <li class="nav-item active">
+              <a class="link" href="#">Depoimentos </a>
+            </li>
+            <li class="nav-link">
+              <a class="link" href="login.html"> Login/Cadastro</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    </header>
+
+    <!--Cabeçalho Final-->
+    <div class="cont01">
+      <!--conteudo daqui pra baixo-->
+        
+     
+
+
+<!--nova tela-->
+<img src="contents/gym15.jpg" alt="" id="img01">
+<div id="tela">
+  <form id="form" action="formulario" method="post">
+    <h3 class="titulo">Agendamento de Aulas</h3>
+    <form>
+      <div class="form-row">
+        <div class="col">
+<!--Campo de texto - Nome -->
+          <label class="campoTexto"> Digite seu nome: </label>
+          <input type="text" id="nome" class="form-control" placeholder="nome completo">
+        </div>
+
+<!--seletor de academia-->
+<label class="campoTexto">Selecione sua academia: </label>
+        <select class="form-control" id="academia"> 
+          <option>selecione a academia </option>
+          <option>academia 1</option>
+          <option>academia 2</option>
+          <option>academia 3</option>
+          <option>academia 4</option>
+          <option>academia 5</option>
+        </select>
+
+<!--Campo de texto - Matricula -->
+<label class="campoTexto"> Digite seu número de matrícula: </label>
+<input type="text" id="matricula" class="form-control" placeholder="número de Matrícula">
+</div>
+
+
+
+<!--Campo de texto - E-mail -->
+<label class="campoTexto"> Digite seu endereço eletrônico: </label>
+<input type="text" id="email" class="form-control" placeholder="Seu e-mail">
+
+
+<!--Campo de texto - Data -->
+<label class="campoTexto"> Selecione a data: </label>
+<input type="date" id="data" class="form-control">
+
+<!--seletor de Horario-->
+<label class="campoTexto">Selecione o horario da aula: </label>
+        <select class="form-control" id="horario"> 
+            <option>escolha um horário:</option>
+            <option>06:00</option>
+            <option>07:00</option>
+            <option>08:00</option>
+            <option>09:00</option>
+            <option>10:00</option>
+            <option>11:00</option>
+            <option>12:00</option>
+          </select>
+<!--Botão de enviar-->
+<div class="button">
+  <button type="button" class="btn btn-dark" id="btnAgendamento">
+    Enviar seu agendamento
+  </button>
+  <button type="button" class="btn btn-dark" id="btnCarregaDados">
+   Visão de administrador
+  </button>
+</div>
+</form>
+
+  
+  
+
+  
+
+
+
+      <!--conteudo daqui pra cima-->
+    </div>
+ 
+    <!-- Footer -->
+    <footer>
+      <div
+        class="text-center p-4"
+        style="background-color: rgba(0, 0, 0, 0.05)"
+      >
+        © 2022 Copyright:
+        <a class="text-reset fw-bold" href="#"
+          >Gym<span class="cor">match</span></a
+        >
+      </div>
+    </footer>
+    <!-- Footer -->
+
+    <!--Bootstrap-->
+    <script
+      src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"
+      integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF"
+      crossorigin="anonymous"
+    ></script>
+
+    <script type="text/javascript" src="template.js"></script>
+  </body>
+</html>

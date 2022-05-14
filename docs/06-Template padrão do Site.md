@@ -11,8 +11,7 @@ Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com
 > - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
 > - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
 
-
-<h1> Template - Pagina inicial </h1>
+<h1> Template </h1>
 
 <p> Tela que conecta todas as funcionalidades do site, informações ligadas a nutrição e a funções de contratação de serviços e forum de bate papo.
   
@@ -20,5 +19,4 @@ Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com
   
   ![image](https://user-images.githubusercontent.com/103079348/168198744-77e88ecb-fb23-489c-966c-39e00194a562.png)
 
- 
 </p>
