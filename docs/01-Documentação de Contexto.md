@@ -29,6 +29,6 @@ A diminuição da frequência dos alunos nas academias no inverno ocasiona preju
 
 ## Público-Alvo
 
-Esse projeto tem como objetivo analisar pessoas fisicamente ativas que se preocupam com a saúde e bem-estar e que, além disso, estão em busca de aumentar a frequência em que praticam atividades físicas em academias durante o inverno. Foi analisado que durante esse período as pessoas apresentam um baixo interesse na realização de exercícios físicos em academias, conforme informado na matéria Orientações para atividade física no inverno (Unimed, 2016).
+Esse projeto tem como objetivo analisar pessoas fisicamente ativas que se preocupam com a saúde e bem-estar e que, além disso, estão em busca de aumentar a frequência em que praticam atividades físicas em academias durante o inverno. Foi analisado que durante esse período as pessoas apresentam um baixo interesse na realização de exercícios físicos em academias, conforme informado na matéria orientações para atividade física no inverno (Unimed, 2016).
 
 Desta forma, estabeleceu-se como público-alvo desta solução homens e mulheres entre 18 e 60 anos, estudantes e trabalhadores que praticam atividade física durante o verão, porém, no inverno eles não conseguem manter esta frequência.
