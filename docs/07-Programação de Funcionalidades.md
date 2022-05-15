@@ -35,6 +35,7 @@ RF-09<br>
 > - benefícios.html
 > - benefícios.css
 
+<br><img src="img/beneficios.png" alt="beneficios">
 
 <h2>Informações Nutricionais (RF-04 e RF-05)</h2>
 
