@@ -1,6 +1,6 @@
 # Programação de Funcionalidades
 
-<h2> Pagina inicial</h2>
+<h2> Página inicial</h2>
 
 <p> Home page é a página inicial do site, compreende uma apresentação do site e de todo o seu conteúdo, através dela o usuário terá acesso a todo o conteúdo do site.</p>
   
@@ -14,11 +14,8 @@ RF-01<br>
  <strong>Artefatos de funcionalidade</strong><br>
    artefatos usados para o desenvolvimento da pagina
  
-> - index.css
 > - index.html
-> - alimentacao.jpg
-> - cartoon.jpg
-> - alunos.jpg
+> - index.css
 
 <br><img src="img/telainicial.png" alt="telainicial">
 
