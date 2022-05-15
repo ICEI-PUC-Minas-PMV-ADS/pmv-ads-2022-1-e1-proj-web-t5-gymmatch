@@ -1,13 +1,20 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Changa:wght@500&display=swap");
 
 body {
-  font-family: 'Roboto', sans-serif;
-  background-image: linear-gradient(to right, #0e0d0d, #6793c7, #c67046);
+  font-family: 'Changa', sans-serif;
+  background-image:url(gym02.jpeg); 
+  background-size: 1300px;
+  width: 100%;
+  height: 45px;
+}
+  ::-webkit-scrollbar {
+    width: 0;
 }
 
 * {
   box-sizing: border-box;
 }
+
 
 .form-container {
   background: white;
@@ -18,12 +25,21 @@ body {
 
 form {
   padding: 20px;
+
 }
 
-form h1,
-h2,
-h3 {
+.cor {
+  color:#7C70E4;
+  size: 200px;
+}
+form,h2,h3 {
   text-align: center;
+}
+
+.title {
+  text-align: center;
+  text-decoration: none;
+  size: 100px;
 }
 
 form .input-container {
@@ -31,8 +47,7 @@ form .input-container {
   margin-bottom: 15px;
 }
 
-form .input-container input,
-input[type="submit"] {
+form .input-container input, input[type="submit"] {
   width: 100%;
   height: 45px;
   border-radius: 10px;
@@ -70,15 +85,14 @@ form .input-container svg {
   color: #818181;
 }
 
-.options-container .checkbox-container,
-.options-container a {
+.options-container .checkbox-container, .options-container a{
   display: inline-block;
   width: 50%;
 }
 
 a {
   text-align: right;
-  color: red;
+  color: rgb(8, 6, 6);
   text-decoration: none;
 }
 
@@ -122,5 +136,4 @@ hr {
 
 .footer {
   width: fit-content;
-  margin: 20px auto;
-}
+  margin: 20px auto
