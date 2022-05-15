@@ -20,6 +20,7 @@ RF-01<br>
 > - cartoon.jpg
 > - alunos.jpg
 
+<br><img src="img/telainicial.png" alt="telainicial">
 
 <h2>Benefícios (RF-09)</h2>
 
