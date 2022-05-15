@@ -1,19 +1,20 @@
 # Template padrão do site
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>
-
-Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
-
-> **Links Úteis**:
->
-> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
-> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
-> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
-> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
-
 <h1> Template </h1>
 
-<p>O padrão de layout a ser utilizado pelo site tem correspondência ao projeto de Interface representado conforme Figura 16.</p>
+<p>O padrão de layout a ser utilizado pelo site tem correspondência ao projeto de Interface representado conforme Figura 16:</p><br>
+
+<img src="img/template.png" alt="template">
+<p>Figura 16 - Template padrão do site</p>
+
+<p>O template criado está disponível no site https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t5-gymmatch composto pelo seguinte layout:</p>
+
+<p>
+    • Cabeçalho.<br>
+    • Conteúdo.<br>
+    • Rodapé.</p>
+    
+<p>A responsividade segue o padrão do Bootstrap.</p>
 
 <p> Tela que conecta todas as funcionalidades do site, informações ligadas a nutrição e a funções de contratação de serviços e forum de bate papo.
   
