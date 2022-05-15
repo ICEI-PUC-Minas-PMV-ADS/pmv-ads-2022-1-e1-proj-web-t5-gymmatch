@@ -48,11 +48,12 @@ RF-05<br>
 <strong>Artefatos de funcionalidade</strong><br>
  artefatos usados para o desenvolvimento da pagina
  
-> - informaçõesNutricionais.html
-> - informaçõesNutricionais.css
+> - nutricao.html
+> - nutricao.css
 
+<br><img src="img/informaçõesnutricionais.png" alt="informaçõesnutricionais">
 
-<h2>Dúvidas (RF-08)</h2>
+<h2>Dúvidas Gerais (RF-08)</h2>
 
 <p>O site possui uma página com dúvidas gerais para que os alunos possam consultar.</p>
 
@@ -62,9 +63,10 @@ RF-08<br>
 <strong>Artefatos de funcionalidade</strong><br>
  artefatos usados para o desenvolvimento da pagina
  
-> - dúvidas.html
-> - dúvidas.css
+> - duvidasGerais.html
+> - duvidasGerais.css
 
+<br><img src="img/duvidas.png" alt="duvidas">
 
 <h2>Depoimentos (RF-01)</h2>
 
