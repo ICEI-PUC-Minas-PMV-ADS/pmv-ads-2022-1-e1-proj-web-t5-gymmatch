@@ -1,32 +1,17 @@
 # Programação de Funcionalidades
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="5-Arquitetura da Solução.md"> Arquitetura da Solução</a>
+<h2> Pagina inicial</h2>
 
-Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
-
-Para cada requisito funcional, pode ser entregue um artefato desse tipo
-
-> **Links Úteis**:
->
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
-
-
-
-<h1> Pagina inicial - RF-09 </h1>
-<br>
-<p> A pagina inicial apresenta em destaque a matéria Beneficios de praticar exercicios durante o inverno (rf09), e tambem faz conexão com todas as outras paginas do projeto através de blocos de conteudo com links das materias completas. 
-<br>
-<br>
+<p> Home page é a página inicial do site, compreende uma apresentação do site e de todo o seu conteúdo, através dela o usuário terá acesso a todo o conteúdo do site.</p>
   
-<h2> Requisitos atendidos </h2>
-  <strong> RF-09 </strong>
-  
+ <strong>Requisitos atendidos</strong><br>
+RF-09<br>
+RF-04<br>
+RF-05<br>
+RF-08<br>
+RF-01<br>
 
- <h2> Artefatos de funcionalidade </h2>
+ <strong>Artefatos de funcionalidade</strong><br>
    artefatos usados para o desenvolvimento da pagina
  
 > - index.css
@@ -35,5 +20,41 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 > - cartoon.jpg
 > - alunos.jpg
 
-<h2> Estrutura de Dados </h2>
-</p>
+
+<h2>Benefícios (RF-09)</h2>
+
+<p>O site possui informações sobre os benefícios de praticar atividade em dias frios.</p>
+
+<strong>Requisitos atendidos</strong><br>
+RF-09<br>
+
+<strong>Artefatos de funcionalidade</strong><br>
+ artefatos usados para o desenvolvimento da pagina
+ 
+> - benefícios.html
+> - benefícios.css
+
+
+<h2>Informações Nutricionais (RF-04 e RF-05)</h2>
+
+<p>O site apresenta informações nutricionais personalizadas com horários e os intervalos recomendados para alimentação, quantidade ideal e os tipos de alimentos indicados para diferentes perfis de alunos. O site apresenta informações sobre os alimentos recomendados para uma alimentação pré-treino.</p>
+
+<strong>Requisitos atendidos</strong><br>
+RF-04<br>
+RF-05<br>
+
+<strong>Artefatos de funcionalidade</strong><br>
+ artefatos usados para o desenvolvimento da pagina
+ 
+> - InformaçõesNutricionais.html
+> - InformaçõesNutricionais.css
+
+
+<h2>Dúvidas (RF-08)</h2>
+
+<p>O site possui uma página com dúvidas gerais para que os alunos possam consultar.</p>
+
+<strong>Requisitos atendidos</strong><br>
+RF-08<br>
+
+
