@@ -6,7 +6,7 @@
 
 <img src="img/template.png" alt="template">
 
-Figura 16 - Template padrão do site
+Figura 16 - Template padrão do site.
 
 <p>O template criado está disponível no site https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t5-gymmatch, ele é composto pelo seguinte layout:</p>
 
