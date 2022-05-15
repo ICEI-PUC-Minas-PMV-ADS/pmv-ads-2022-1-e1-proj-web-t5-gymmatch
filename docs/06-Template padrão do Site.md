@@ -2,10 +2,11 @@
 
 <h1> Template </h1>
 
-<p>O padrão de layout a ser utilizado pelo site tem correspondência ao projeto de Interface representado conforme Figura 16:</p><br>
+<p>O padrão de layout a ser utilizado pelo site tem correspondência ao projeto de Interface representado conforme Figura 16:</p>
 
 <img src="img/template.png" alt="template">
-<p>Figura 16 - Template padrão do site</p>
+
+Figura 16 - Template padrão do site
 
 <p>O template criado está disponível no site https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t5-gymmatch composto pelo seguinte layout:</p>
 
