@@ -46,8 +46,8 @@ RF-05<br>
 <strong>Artefatos de funcionalidade</strong><br>
  artefatos usados para o desenvolvimento da pagina
  
-> - InformaçõesNutricionais.html
-> - InformaçõesNutricionais.css
+> - informaçõesNutricionais.html
+> - informaçõesNutricionais.css
 
 
 <h2>Dúvidas (RF-08)</h2>
@@ -57,4 +57,23 @@ RF-05<br>
 <strong>Requisitos atendidos</strong><br>
 RF-08<br>
 
+<strong>Artefatos de funcionalidade</strong><br>
+ artefatos usados para o desenvolvimento da pagina
+ 
+> - dúvidas.html
+> - dúvidas.css
+
+
+<h2>Depoimentos (RF-01)</h2>
+
+<p>O site possui uma tela de depoimentos para os alunos relatarem suas experiencias.</p>
+
+<strong>Requisitos atendidos</strong><br>
+RF-01<br>
+
+<strong>Artefatos de funcionalidade</strong><br>
+ artefatos usados para o desenvolvimento da pagina
+ 
+> - depoimentos.html
+> - depoimentos.css
 
