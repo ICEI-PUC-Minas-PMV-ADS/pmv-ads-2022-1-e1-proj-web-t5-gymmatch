@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Gymmatch</title>
-    <link href="login.css" rel="stylesheet" />
+    <link href="style.css" rel="stylesheet" />
     <link
       rel="icon"
       type="image/x-icon"
@@ -13,16 +13,19 @@
     <script src="https://unpkg.com/feather-icons"></script>
   </head>
   <body>
+    <div id="container-image"></div>
     <div class="form-container">
-      <form>
-        <h1>Gymmatch</h1>
-        <h2>Login</h2>
+      <form onsubmit="logar(); return false;">
+        <h1>
+          <a class="title">Gym<span class="cor">match</span></a>
+        </h1>
         <div class="input-container">
-          <input type="text" placeholder="Username" />
+          <h2>Login</h2>
+          <input type="text" placeholder="Username" name="usuario" />
           <i data-feather="user"></i>
         </div>
         <div class="input-container">
-          <input type="password" placeholder="Password" />
+          <input type="password" placeholder="Password" name="password" />
           <i data-feather="lock"></i>
         </div>
         <div class="options-container">
@@ -35,25 +38,53 @@
         <p>Ou entre com</p>
         <div class="social-media-container">
           <div class="icon-container">
-            <i data-feather="facebook"></i>
+            <a href="https://www.facebook.com" target="_blank"
+              ><i data-feather="facebook"></i
+            ></a>
           </div>
           <div class="icon-container">
-            <i data-feather="mail"></i>
+            <a href="https://www.gmail.com" target="_blank"
+              ><i data-feather="mail"></i
+            ></a>
           </div>
+
           <div class="icon-container">
-            <i data-feather="twitter"></i>
+            <a href="https://www.twitter.com" target="_blank"
+              ><i data-feather="twitter"></i
+            ></a>
           </div>
         </div>
         <hr />
         <p class="footer">
           Ainda não tem uma conta?
-          <a href="google.com">Criar uma conta</a>
+          <a href="http://google.com" target="_blank">Criar uma conta</a>
         </p>
       </form>
     </div>
-
     <script>
-      feather.replace()
+      feather.replace();
+
+      function logar() {
+        try {
+          var login = document.getElementsByName("usuario")[0].value;
+          var password = document.getElementsByName("password")[0].value;
+
+          console.log({
+            login,
+            password
+          });
+          if (login == "user@hotmail.com" && password == "1234") {
+            alert("Redirecionando");
+          } else {
+            alert("Usuário ou senha incorretos\n Tente novamente\n");
+          }
+        } catch (err) {
+          console.log(err);
+        }
+
+        return false;
+      }
     </script>
   </body>
 </html>
+
