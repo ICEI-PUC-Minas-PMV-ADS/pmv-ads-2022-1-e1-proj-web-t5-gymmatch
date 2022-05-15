@@ -13,6 +13,8 @@ Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com
 
 <h1> Template </h1>
 
+<p>O padrão de layout a ser utilizado pelo site tem correspondência ao projeto de Interface representado conforme Figura 16.</p>
+
 <p> Tela que conecta todas as funcionalidades do site, informações ligadas a nutrição e a funções de contratação de serviços e forum de bate papo.
   
   ![image](https://user-images.githubusercontent.com/103079348/168197943-8bc0ac8c-e66d-48c4-965f-aaf91ae76667.png)
