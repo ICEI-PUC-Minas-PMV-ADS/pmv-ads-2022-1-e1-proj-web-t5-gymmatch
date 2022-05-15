@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Gymmatch</title>
-    <link href="style.css" rel="stylesheet" />
+    <link href="login.css" rel="stylesheet" />
     <link
       rel="icon"
       type="image/x-icon"
@@ -62,29 +62,28 @@
       </form>
     </div>
     <script>
-      feather.replace();
+      feather.replace()
 
       function logar() {
         try {
-          var login = document.getElementsByName("usuario")[0].value;
-          var password = document.getElementsByName("password")[0].value;
+          var login = document.getElementsByName('usuario')[0].value
+          var password = document.getElementsByName('password')[0].value
 
           console.log({
             login,
             password
-          });
-          if (login == "user@hotmail.com" && password == "1234") {
-            alert("Redirecionando");
+          })
+          if (login == 'user@hotmail.com' && password == '1234') {
+            alert('Redirecionando')
           } else {
-            alert("Usuário ou senha incorretos\n Tente novamente\n");
+            alert('Usuário ou senha incorretos\n Tente novamente\n')
           }
         } catch (err) {
-          console.log(err);
+          console.log(err)
         }
 
-        return false;
+        return false
       }
     </script>
   </body>
 </html>
-
