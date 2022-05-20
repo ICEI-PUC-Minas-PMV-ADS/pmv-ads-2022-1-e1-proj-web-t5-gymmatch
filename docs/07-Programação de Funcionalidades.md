@@ -9,6 +9,7 @@ RF-09<br>
 RF-04<br>
 RF-05<br>
 RF-08<br>
+RF-10<br>
 RF-01<br>
 
  <strong>Artefatos de funcionalidade</strong><br>
@@ -64,6 +65,22 @@ RF-08<br>
 > - duvidasGerais.css
 
 <br><img src="img/duvidas.png" alt="duvidas">
+
+<h2>Agendamento de Aulas (RF-10)</h2>
+
+<p>O site deve apresentar um recurso para que o aluno possa agendar sua aula e ser notificado quando o treino estiver próximo.</p>
+
+<strong>Requisitos atendidos</strong><br>
+RF-10<br>
+
+<strong>Artefatos de funcionalidade</strong><br>
+ artefatos usados para o desenvolvimento da pagina
+ 
+> - agendamentoAulas.html
+> - agendamentoAulas.css
+> - agendamentoAulas.js
+
+<br><img src="img/agendamento.png" alt="agendamento">
 
 <h2>Depoimentos (RF-01)</h2>
 
