@@ -13,7 +13,7 @@ RF-10<br>
 RF-01<br>
 
  <strong>Artefatos de funcionalidade</strong><br>
-   artefatos usados para o desenvolvimento da pagina
+   Artefatos usados para o desenvolvimento da pagina
  
 > - index.html
 > - index.css
@@ -28,7 +28,7 @@ RF-01<br>
 RF-09<br>
 
 <strong>Artefatos de funcionalidade</strong><br>
- artefatos usados para o desenvolvimento da pagina
+ Artefatos usados para o desenvolvimento da pagina
  
 > - benefícios.html
 > - benefícios.css
@@ -44,7 +44,7 @@ RF-04<br>
 RF-05<br>
 
 <strong>Artefatos de funcionalidade</strong><br>
- artefatos usados para o desenvolvimento da pagina
+ Artefatos usados para o desenvolvimento da pagina
  
 > - nutricao.html
 > - nutricao.css
@@ -59,7 +59,7 @@ RF-05<br>
 RF-08<br>
 
 <strong>Artefatos de funcionalidade</strong><br>
- artefatos usados para o desenvolvimento da pagina
+ Artefatos usados para o desenvolvimento da pagina
  
 > - duvidasGerais.html
 > - duvidasGerais.css
@@ -68,13 +68,13 @@ RF-08<br>
 
 <h2>Agendamento de Aulas (RF-10)</h2>
 
-<p>O site deve apresentar um recurso para que o aluno possa agendar sua aula e ser notificado quando o treino estiver próximo.</p>
+<p>O site apresenta um formulário para o aluno realizar agendamento de aulas.</p>
 
 <strong>Requisitos atendidos</strong><br>
 RF-10<br>
 
 <strong>Artefatos de funcionalidade</strong><br>
- artefatos usados para o desenvolvimento da pagina
+ Artefatos usados para o desenvolvimento da pagina
  
 > - agendamentoAulas.html
 > - agendamentoAulas.css
@@ -90,7 +90,7 @@ RF-10<br>
 RF-01<br>
 
 <strong>Artefatos de funcionalidade</strong><br>
- artefatos usados para o desenvolvimento da pagina
+ Artefatos usados para o desenvolvimento da pagina
  
 > - depoimentos.html
 > - depoimentos.css
