@@ -81,17 +81,3 @@ RF-10<br>
 > - agendamentoAulas.js
 
 <br><img src="img/agendamento.png" alt="agendamento">
-
-<h2>Depoimentos (RF-01)</h2>
-
-<p>O site possui uma tela de depoimentos para os alunos relatarem suas experiencias.</p>
-
-<strong>Requisitos atendidos</strong><br>
-RF-01<br>
-
-<strong>Artefatos de funcionalidade</strong><br>
- Artefatos usados para o desenvolvimento da pagina
- 
-> - depoimentos.html
-> - depoimentos.css
-
