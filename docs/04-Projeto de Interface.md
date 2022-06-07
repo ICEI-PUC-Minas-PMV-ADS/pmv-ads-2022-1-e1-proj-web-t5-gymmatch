@@ -84,7 +84,7 @@ A tela de Dúvidas Gerais apresenta a relação de dúvidas comuns entre os usu�
 
 A tela de depoimentos e comunicação dá espaço para o usuário contar sua experiência com o uso do nosso site, para nos ajudar por meio de um feedback com intuito de podermos executar melhorias e promover uma experiência cada vez melhor para nossos usuários.
 
-![image](https://user-images.githubusercontent.com/103079348/164766454-e46bf320-cdc2-4e5f-a949-99c10fbeef67.png)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t5-gymmatch/blob/89e0d779cac8eef7070e2c81374b9470de96f9b9/docs/img/projetos%20de%20interface%20atualizados/wireframes/depoimentos.png)
 
                                             Figura 11 - Depoimentos e Comunicação
 
