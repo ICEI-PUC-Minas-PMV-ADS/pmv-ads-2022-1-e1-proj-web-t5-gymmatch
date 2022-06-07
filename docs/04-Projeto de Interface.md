@@ -31,20 +31,20 @@ São protótipos usados em design de interface para sugerir a estrutura de um si
  
 ## Tela – Home-Page
 
- A tela da página inicial apresenta no cabeçalho um menu com opções de navegação. No menu estão opções para os usuários acessarem os benefícios de praticar exercícios físicos no inverno, informações nutricionais, depoimentos dos usuários e login.
+ A tela da página inicial apresenta no cabeçalho um menu com opções de navegação. No menu estão opções para os usuários acessarem os benefícios de praticar exercícios físicos no inverno, informações nutricionais, depoimentos dos usuários.
 
-O conteúdo da página inicial tem o objetivo de apresentar informações relevantes que incentivam os alunos a frequentarem a academia no período de inverno. O usuário poderá acessar informações sobre programa de fidelização, dúvidas gerais e agendamento de aulas.
+O conteúdo da página inicial tem o objetivo de apresentar informações relevantes que incentivam os alunos a frequentarem a academia no período de inverno. 
 Estará disponível no conteúdo da página principal uma opção para acesso as experiencias positivas dos alunos que praticam atividades físicas de forma regular e constante, os benefícios da prática de atividades físicas e informações sobre como se alimentar no inverno. 
 
  ![pagina inicial](https://user-images.githubusercontent.com/103079348/164765966-28e20aa6-a0b0-4e8b-99de-062dcf7f7eaf.png)
  
                                             Figura 5 - Tela Inicial 
 
-## Tela – Login
+## Tela – Treinos
 
-Através da opção login ou cadastro localizada no cabeçalho da página inicial, o usuário poderá se identificar para obter informações personalizadas.
+Por meio desta tela o usuário terá disponível dicas de treinos para descobrir qual a melhor opção de acordo com o seu perfil.
 
-![login](https://user-images.githubusercontent.com/103079348/164766147-0a0eb0d6-0fd8-48be-a05c-adf509409b0c.png)
+![treino](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t5-gymmatch/blob/331ce3abfaba6aceff3d8643327f20fb72330db1/docs/img/projetos%20de%20interface%20atualizados/wireframes/treinos.png)
 
                                             Figura 6 - Tela Login 
 
@@ -64,21 +64,13 @@ Nesta tela terá toda informação sobre a alimentação para que o usuário pos
 
                                             Figura 8 - Informações Nutricionais 
 
-## Tela – Agendamento de Aulas
+## Tela – Curiosidades
 
-Essa tela permite ao usuário marcar data e horário para realizar seu treinamento. Nesta página basta o usuário se identificar, fornecer seu contato para comunicação, selecionar a academia parceira com a Gymmatch e número de matrícula para poder estar agendando sua aula. Ademais, se o usuário quiser deixar uma mensagem, deixamos um bloco para que possa estar deixando sua mensagem. 
+Essa tela permite ao usuário descobrir mais informações sobre a realização de atividades físicas em tempos frios, agregando mais informação e incentivando de forma teórica os treinamentos.
 
-![agendamento de aulas](https://user-images.githubusercontent.com/103079348/164766392-0428b557-3eb2-45cf-8e18-41d3f579a00e.png)
+![curiosidades](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t5-gymmatch/blob/331ce3abfaba6aceff3d8643327f20fb72330db1/docs/img/projetos%20de%20interface%20atualizados/wireframes/curiosidades.png)
 
                                             Figura 9 - Agendamento de Aulas
-
-## Tela – Programa de Fidelização
-
-Nesta tela o usuário tem a chance de conhecer nosso sistema de parceria estabelecido com algumas redes de academias. Se o usuário estiver matriculado com um de nossos conveniados ele pode por meio desta tela com seu número de matrícula da academia pedir a solicitação de um plano para obter benefícios financeiros com sua academia, além de desfrutar informações sobre treino e alimentação em nosso site. 
-
-![image](https://user-images.githubusercontent.com/103079348/164766421-e6ed08c0-d4b6-4976-946e-a2e9e0bf74d8.png)
-
-                                            Figura 10 - Programa de Fidelização 
 
 ## Tela – Dúvidas Gerais
 
@@ -86,20 +78,13 @@ A tela de Dúvidas Gerais apresenta a relação de dúvidas comuns entre os usu�
 
 ![duvidas gerais](https://user-images.githubusercontent.com/103079348/164766850-0f5ea82c-4a74-4d50-acc7-99851add4933.png)
 
-                                            Figura 11 - Dúvidas Gerais
+                                            Figura 10 - Dúvidas Gerais
 
-## Tela – Depoimentos e comunicação
+## Tela – Depoimentos 
 
-A tela de depoimentos e comunicação dá espaço para o usuário contar sua experiência com o uso do nosso site, para nos ajudar por meio de um feedback com intuito de podermos executar melhorias e promover uma experiência cada vez melhor para nossos usuários. A página também conta um bloco de comunicação por meio de chat, com o intuito do usuário se comunicar com nossa equipe.
+A tela de depoimentos e comunicação dá espaço para o usuário contar sua experiência com o uso do nosso site, para nos ajudar por meio de um feedback com intuito de podermos executar melhorias e promover uma experiência cada vez melhor para nossos usuários.
 
 ![image](https://user-images.githubusercontent.com/103079348/164766454-e46bf320-cdc2-4e5f-a949-99c10fbeef67.png)
 
-                                            Figura 12 - Depoimentos e Comunicação
+                                            Figura 11 - Depoimentos e Comunicação
 
-## Tela – Mensagens
-
-Nesta tela usuário tem a possibilidade de deixar uma mensagem com algum tipo de opinião, melhoria, satisfação etc.
-
-![bloco de mensagens](https://user-images.githubusercontent.com/103079348/164766742-d1f743bb-d5cf-4bdf-9a76-8da6b0868db2.png)
-
-                                            Figura 12.1 - Bloco de Mensagens 
