@@ -8,7 +8,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## User Flow
 
-![fluxo de usuarios](https://user-images.githubusercontent.com/103079348/164765397-fb050de7-b4d4-4d86-9f2f-6bde16b2ca88.png)
+![fluxo de usuarios](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t5-gymmatch/blob/1b34af8f5139f6340f99fadc71b8ad2693719274/docs/img/projetos%20de%20interface%20atualizados/fluxo%20de%20usuarios/fluxograma.png)
 
                                             Figura 3 - Fluxo de telas do usuário
 
