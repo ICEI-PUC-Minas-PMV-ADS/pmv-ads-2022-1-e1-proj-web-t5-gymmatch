@@ -14,11 +14,7 @@ Conforme exposto, o problema que se busca resolver com este projeto é a reduç�
 
 ## Objetivos
 
-O objetivo geral deste trabalho é a criação de uma aplicação Web Front-End que apresente ferramentas para estimular os alunos de academias a praticarem exercícios físicos durante todas as estações do ano.
-
-Como objetivos específicos, podemos ressaltar:
- Desenvolver estratégias de marketing para conscientização dos alunos sobre os benefícios da prática de exercícios físicos durante o inverno;
- Criar programas de fidelização com benefícios para os alunos que frequentarem a academia regularmente no decorrer do ano.
+O objetivo geral deste trabalho é a criação de uma aplicação Web Front-End que apresente ferramentas informativas para estimular os alunos de academias a praticarem exercícios físicos durante todas as estações do ano.
 
 ## Justificativa
 
