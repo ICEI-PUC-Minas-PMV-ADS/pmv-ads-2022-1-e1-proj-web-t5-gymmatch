@@ -63,7 +63,7 @@ RF-07<br>
 > - duvidasGerais.html
 > - duvidasGerais.css
 
-<br><img src="img/pageCuriosidades.png" alt="duvidas">
+<br><img src="img/PageCuriosidades.png" alt="curiosidades">
 
 <h2>Treinos (RF-02)</h2>
 
