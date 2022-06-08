@@ -10,12 +10,14 @@ RF-03<br>
 RF-04<br>
 RF-06<br>
 RF-07<br>
+RF-08<br>
 
  <strong>Artefatos de funcionalidade</strong><br>
    Artefatos usados para o desenvolvimento da pagina
  
 > - index.html
 > - index.css
+<p> <strong>Desenvolvedor:</strong> Matheus.
 
 <br><img src="img/pageInicial.png" alt="telainicial">
 
@@ -31,6 +33,7 @@ RF-06<br>
  
 > - benefícios.html
 > - benefícios.css
+<p> <strong>Desenvolvedor:</strong> Welbscley.
 
 <br><img src="img/pageBeneficios.png" alt="beneficios">
 
@@ -47,6 +50,7 @@ RF-04<br>
  
 > - nutricao.html
 > - nutricao.css
+<p> <strong>Desenvolvedor:</strong> Roberto.
 
 <br><img src="img/pageDicasNutricionais.png" alt="informaçõesnutricionais">
 
@@ -62,6 +66,7 @@ RF-07<br>
  
 > - duvidasGerais.html
 > - duvidasGerais.css
+<p> <strong>Desenvolvedor:</strong> Raul.
 
 <br><img src="img/PageCuriosidades.png" alt="curiosidades">
 
@@ -77,20 +82,23 @@ RF-02<br>
  
 > - treinos.html
 > - treinos.css
+<p> <strong>Desenvolvedor:</strong> Matheus, Raul, Roberto e Welbscley.
 
 <br><img src="img/pageTreinos.png" alt="agendamento">
 
-<h2>Depoimentos (RF-05)</h2>
+<h2>Depoimentos (RF-05 e RF-09)</h2>
 
 <p>O site apresenta uma página com depoimentos.</p>
 
 <strong>Requisitos atendidos</strong><br>
 RF-05<br>
+RF-09<br>
 
 <strong>Artefatos de funcionalidade</strong><br>
  Artefatos usados para o desenvolvimento da pagina
  
 > - depoimentos.html
 > - depoimentos.css
+<p> <strong>Desenvolvedor:</strong> Matheus, Raul, Roberto e Welbscley.
 
 <br><img src="img/" alt="depoimentos">
