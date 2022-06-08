@@ -21,7 +21,7 @@ Frustrações: <br/>
 • Dificuldade para en-caixar uma rotina de treino adaptada; <br/>
 • Manter a frequência de treino nos dias frios; <br/>
 • Dificuldade de manter uma alimentação saudável; <br/>
-• Quer ter acesso a ficha de treino pela Web. <br/>	
+• Quer ter acesso a dicas de treino pela Web. <br/>	
 Hobbies, História: <br/>
 • Clara é apaixonada por corrida, mas de-vido a sua lesão op-tou por treinar em uma academia; <br/>
 • Tem como principal interesse treinos que foque no aeróbico. <br/>
@@ -38,8 +38,7 @@ Motivações: <br/>
 Frustrações: <br/>
 • Muita dificuldade para executar os exercícios; <br/>
 • Pouca disciplina para manter uma rotina de treinos; <br/>
-• Dificuldade em manter uma dieta balanceada; <br/>
-• Mensalidade muito cara para sua renda. <br/>	
+• Dificuldade em manter uma dieta balanceada; <br/>	
 Hobbies, História: <br/>
 • Arthur nunca foi de praticar atividades físicas, mas devido a orientação médica, ele precisa praticar para controlar suas doenças crônica; <br/>
 • Tem histórico de problemas cardíacos na família, sente necessidade de melhorar os seus hábitos alimentares. <br/>
@@ -123,16 +122,16 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Aluno Arthur Souza  | Desejo receber incentivos e descontos no período de inverno.       | Porque tenho dificuldade financeira para arcar com os custos da academia,  mas compreendo a necessidade para saúde    |
-|Aluna Clara Rezende | Quero obter acesso aos conteúdos digitais, ficha de treino da minha academia preferida em um site próprio.| Tenho dificuldade em manter a alimentação saudável e necessidade de conteúdos digitais para me auxiliar.|
-|Personal trainer Rafaela Santos|Quero divulgar informações sobre hábitos saudáveis de alimentação em dias frios.|Hábitos saudáveis de alimentação em dias frios potencializam os resultados da prática de exercícios.|
-|Empresário Ângelo Rodrigues|Quero criar programas de fidelização para os alunos no período do inverno.|Porque os alunos perdem o foco nos períodos sazonais. Os programas de fidelização têm a função de cativar e manter os alunos motivados a frequentarem academias regularmente.| 
+|Aluno Arthur Souza  | Desejo obter informações sobre como a prática de atividades físicas no inverno traz benefícios para a saúde.       | Porque tenho problemas com o meu condicionamento físico, estas informações me interessam, pois quero melhorar a minha forma física.    |
+|Aluna Clara Rezende | Quero obter acesso aos conteúdos digitais e dicas de treino em um site próprio.| Porque tenho interesse em conteúdos digitais para me auxiliar a praticar exercícios. |
+|Personal trainer Rafaela Santos| Quero divulgar informações sobre hábitos saudáveis de alimentação em dias frios.|Hábitos saudáveis de alimentação em dias frios potencializam os resultados da prática de exercícios.|
+|Empresário Ângelo Rodrigues| Gostaria de montar uma página onde os alunos possam visualizar dúvidas gerais.|Para melhorar o atendimento ao cliente, podendo sanar as dúvidas dos alunos de uma forma mais rápida e precisa. | 
 |Empresário Ângelo Rodrigues|Quero melhorar a comunicação e a relação com os clientes.|Para que eu possa fortalecer o relacionamento com os clientes e fidelizá-los.| 
-|Empresário Ângelo Rodrigues|Desejo monitorar os acessos dos clientes através de ferramentas de marketing digital.|Para que eu possa obter dados sobre origens de tráfego, número total de visitantes, tempo de visita, idade, gênero, interesses e afinidades.|   
-|Aluno Arthur Souza  |Desejo ter acesso a informações nutricionais personalizadas de acordo com o meu histórico médico.|Para que eu possa saber os horários e os intervalos recomendados para alimentação, quantidade ideal e os tipos de alimentos indicados para as minhas necessidades.|   
-|Aluno Marcelo Falcão|Quero saber como fazer uma alimentação pré-treino.|Porque preciso ter energia e estar preparado para a realização das atividades durante os treinos na academia.|   
-|Aluna Clara Rezende | Desejo ter a possibilidade de participar de programas de fidelização e incentivo para ir na academia.|Para que eu possa receber atendimento vip com acompanhamento, antecipação de ofertas, receber cupons de descontos e brindes especiais.|   
-|Aluna Rafaela Santos|Quero participar de experiências positivas na academia, por meio de planos que não se limitem apenas ao direito de usar os aparelhos e, também, contribuir compartilhando o meu conhecimento em nutrição. |Porque eu desejo ter a possibilidade de ir para a academia ensinar outras modalidades. Além disso, quero que meus alunos tenham conteúdo para consultar quando estiverem com dúvidas sobre alimentação.|   
+|Empresário Ângelo Rodrigues| Gostaria de criar um portal informativo para atrair novos clientes. | Para obter mais destaque no meio da internet e melhorar o acesso à informação, para expandir o meu negócio.|   
+|Aluno Arthur Souza  | Desejo ter acesso a informações nutricionais personalizadas de acordo com o meu histórico médico.| Para que eu possa saber os horários e os intervalos recomendados para alimentação, quantidade ideal e os tipos de alimentos indicados para as minhas necessidades. |   
+|Aluno Marcelo Falcão| Quero saber como fazer uma alimentação pré-treino.| Porque preciso ter energia e estar preparado para a realização das atividades durante os treinos na academia.|   
+|Aluna Clara Rezende | Gostaria de poder publicar o meu relato na internet, juntamente com a minha experiência praticando treino na academia.|Para que eu possa incentivar outras pessoas que possuem interesse em praticar atividades físicas, compartilhando o meu processo de adaptação e os resultados obtidos.|   
+|Aluna Rafaela Santos| Quero poder divulgar dicas de treinos e treinos para os alunos poderem praticar. | Para facilitar aos alunos o acesso à informação e orientá-los sobre a forma correta de se executar um treino na academia.|   
 |Aluno Marcelo Falcão|Desejo ter dicas e acompanhamento especial para obter resultados hipertróficos na academia.|Porque meu interesse em praticar atividades físicas está na melhora da minha aparência física, busco ter um corpo mais definido.|   
 
 
@@ -144,17 +143,14 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| O site deve possuir uma área de depoimentos para os alunos relatarem suas experiencias.  | ALTA | 
-|RF-002| O site deve possuir soluções de marketing digital através da ferramenta Google Analytics.    | MÉDIA |
-|RF-003| O site deve possuir uma área de comunicação através de um formulário dedicado a receber sugestões de melhorias, feedback e mensagens dos alunos. | ALTA  |
-|RF-004| O site deve apresentar informações nutricionais personalizadas com horários e os intervalos recomendados para alimentação, quantidade ideal e os tipos de alimentos indicados para diferentes perfis de alunos. | ALTA  |
-|RF-005| O site deve apresentar informações sobre os alimentos recomendados para uma alimentação pré-treino. | ALTA  |
-|RF-006| O site deve informar aos clientes as vantagens de adesão ao programa de fidelização.  | MÉDIA |
-|RF-007| O site deve apresentar as experiências positivas vivenciadas pelos alunos que frequentam regularmente a academia. Experiencias que vão além da prática de exercícios físicos, como o contato com novas pessoas e o compartilhamento de experiências de qualidade de vida e cuidados com o corpo. | ALTA  |
-|RF-008| O site deve possuir uma página com dúvidas gerais para que os alunos possam consultar.  | MÉDIA |
-|RF-009| O site deve ter conteúdos sobre os benefícios de praticar atividade em dias frios. | ALTA  |
-|RF-010| O site deve apresentar um recurso para que o aluno possa agendar sua aula e ser notificado quando o treino estiver próximo. | ALTA  |
-
+|RF-001| O site deve possuir uma área de depoimentos para os alunos relatarem suas experiencias.  | MÉDIA | 
+|RF-002| O site deve possuir informações sobre treinos divulgados na plataforma.    | ALTA |
+|RF-003| O site deve apresentar informações nutricionais personalizadas com horários e os intervalos recomendados para a alimentação, quantidade ideal e os tipos de alimentos indicados de acordo com o perfil do aluno. | ALTA  |
+|RF-004| O site deve apresentar informações sobre os alimentos recomendados para uma alimentação pré-treino.  | ALTA  |
+|RF-005| O site deve apresentar as experiências vivenciadas pelos alunos que frequentam regularmente a academia. Experiências que vão além da prática de exercícios físicos, como o contato com novas pessoas e o compartilhamento de experiências de qualidade de vida e cuidados com o corpo. | MÉDIA |
+|RF-006| O site deve possuir uma página com dúvidas gerais para que os alunos possam consultar. | MÉDIA |
+|RF-007| O site deve ter conteúdos sobre os benefícios de praticar atividades em dias frios. | ALTA  |
+|RF-008| O site deve apresentar curiosidades, informações pouco conhecidas sobre atividades físicas em dias frios para conscientização e motivação do usuário.  | MÉDIA |
 
 ### Requisitos não Funcionais
 
