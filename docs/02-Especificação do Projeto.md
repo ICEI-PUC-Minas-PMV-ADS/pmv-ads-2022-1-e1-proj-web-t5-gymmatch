@@ -150,6 +150,8 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 |RF-005| O site deve apresentar as experiências vivenciadas pelos alunos que frequentam regularmente a academia. Experiências que vão além da prática de exercícios físicos, como o contato com novas pessoas e o compartilhamento de experiências de qualidade de vida e cuidados com o corpo. | MÉDIA |
 |RF-006| O site deve ter conteúdos sobre os benefícios de praticar atividades em dias frios. | ALTA   |
 |RF-007| O site deve apresentar curiosidades, informações pouco conhecidas sobre atividades físicas em dias frios para conscientização e motivação do usuário. | MÉDIA |
+|RF-008| O site deve apresentar na página inicial atalhos do conteúdo que será disponibilizado no site, facilitando a navegação. | MÉDIA |
+|RF-009| O site deve apresentar um espaço para o usuário enviar seu relato/experiência. | MÉDIA |
 
 ### Requisitos não Funcionais
 
