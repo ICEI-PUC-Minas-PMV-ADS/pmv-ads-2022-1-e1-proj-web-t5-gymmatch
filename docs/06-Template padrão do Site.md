@@ -8,7 +8,7 @@
 
 Figura 16 - Template padrão do site.
 
-<p>O template criado está disponível no site https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t5-gymmatch, ele é composto pelo seguinte layout:</p>
+<p>O template criado está disponível no site [https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t5-gymmatch](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t5-gymmatch/tree/main/docs/Gymmatch2.0/template), ele é composto pelo seguinte layout:</p>
 
 <p>
     <strong>• Cabeçalho:</strong> parte superior do site, a qual fica destacado o conteúdo das páginas. A ideia é que esta parte do site contenha tudo que seja absolutamente necessário para a melhor navegação e experiência do usuário. Dessa forma, caso ele faça o primeiro acesso, ele pode facilmente encontrar o que busca. Por isso o cabeçalho contem as informações da logomarca, página inicial, benefícios, informações nutricionais, duvidas, depoimentos e login/cadastro.<br>
