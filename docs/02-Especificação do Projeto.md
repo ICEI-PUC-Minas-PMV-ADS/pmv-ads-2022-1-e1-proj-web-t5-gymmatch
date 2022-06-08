@@ -148,9 +148,8 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 |RF-003| O site deve apresentar informações nutricionais personalizadas com horários e os intervalos recomendados para a alimentação, quantidade ideal e os tipos de alimentos indicados de acordo com o perfil do aluno. | ALTA  |
 |RF-004| O site deve apresentar informações sobre os alimentos recomendados para uma alimentação pré-treino.  | ALTA  |
 |RF-005| O site deve apresentar as experiências vivenciadas pelos alunos que frequentam regularmente a academia. Experiências que vão além da prática de exercícios físicos, como o contato com novas pessoas e o compartilhamento de experiências de qualidade de vida e cuidados com o corpo. | MÉDIA |
-|RF-006| O site deve possuir uma página com dúvidas gerais para que os alunos possam consultar. | MÉDIA |
-|RF-007| O site deve ter conteúdos sobre os benefícios de praticar atividades em dias frios. | ALTA  |
-|RF-008| O site deve apresentar curiosidades, informações pouco conhecidas sobre atividades físicas em dias frios para conscientização e motivação do usuário.  | MÉDIA |
+|RF-006| O site deve ter conteúdos sobre os benefícios de praticar atividades em dias frios. | ALTA   |
+|RF-007| O site deve apresentar curiosidades, informações pouco conhecidas sobre atividades físicas em dias frios para conscientização e motivação do usuário. | MÉDIA |
 
 ### Requisitos não Funcionais
 
