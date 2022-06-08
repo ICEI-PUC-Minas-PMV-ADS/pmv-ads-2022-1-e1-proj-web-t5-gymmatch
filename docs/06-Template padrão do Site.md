@@ -4,7 +4,7 @@
 
 <p>O padrão de layout a ser utilizado pelo site tem correspondência ao projeto de interface representado conforme figura 16:</p>
 
-<img src="img/template.png" alt="template">
+<img src="img/newTemplate2.png" alt="template">
 
 Figura 16 - Template padrão do site.
 
