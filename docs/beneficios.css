@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Changa:wght@500&display=swap');
+
+* {
+  margin: auto;
+  padding: 0;
+  box-sizing: border-box;
+  max-width: 2000px;
+}
+
+/* barra de rolagem invisivel */
+::-webkit-scrollbar {
+  width: 0;
+}
+
+
+
+/* menu de navegação */
+.navbar {
+  font-size: 160%;
+  font-family: 'Changa', sans-serif;
+  border-bottom: 2px solid #e4e4e4;
+}
+
+/* animação da barra de navegação */
+.navbar :hover {
+  color: #7C70E4;
+  text-decoration: none;
+}
+
+/* animação botão de login */
+.nav-link :hover {
+  background-color: #7C70E4;
+  border-radius: 10px;
+  color: white;
+}
+
+/* links de navegação */
+.link {
+  padding: 0 15px;
+  color: black;
+}
+
+.navbar-brand {
+  font-size: xx-large;
+}
+
+/* cor da logo */
+.cor {
+  color: #7C70E4;
+}
+
+
+/* Rodapé */
+footer {
+  float: left;
+  width: 100%;
+  max-width: 3000px;
+}
+
+/* Estilo dos botões */
+.btn {
+  border-style: none;
+  background-color: #7C70E4;
+}
+
+
+h1,
+h5 {
+  color: #7C70E4;
+}
+
+#click {
+  color: #7C70E4;
+}
+
+/* Daqui pra cima Template padrão */
+
+img {
+  float: right;
+  width: 50%;
+  display: inline-flex;
+}
+
+.jumbotron {
+  background-color: white;
+  width: 75%;
+}
+
+h1 {
+  color: #7C70E4;
+  margin-bottom: 2%;
+}
+
+.lead {
+  font-size: x-large;
+}
+
+#img01 {
+  float: right;
+  width: 50%;
+  display: inline-flex;
+}
+
+#titulo4 {
+  color: black;
+}
