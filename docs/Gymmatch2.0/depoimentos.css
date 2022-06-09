@@ -130,10 +130,13 @@ h1 {
 
 input {
   border: 1%;
-  
   display: flex;
   margin:  5px;
   max-width: 400px;
-  
 }
+
+button {
+  margin: 5px;
+}
+
 
