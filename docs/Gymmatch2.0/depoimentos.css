@@ -65,6 +65,7 @@ footer {
 .btn {
   border-style: none;
   background-color: #7C70E4;
+  margin-left: 2%;
 }
 
 h5 {
@@ -111,7 +112,28 @@ h1 {
 }
 
 #img02 {
-  float: center;
-  width: 40%;
-  display: block;
+  float: right;
+  width: 35%;
 }
+
+.form-group {
+  margin-left: 2%;
+}
+
+#leadText {
+  margin-left: 2%;
+}
+
+#cardEmail {
+  width: 60%;
+}
+
+input {
+  border: 1%;
+  
+  display: flex;
+  margin:  5px;
+  max-width: 400px;
+  
+}
+

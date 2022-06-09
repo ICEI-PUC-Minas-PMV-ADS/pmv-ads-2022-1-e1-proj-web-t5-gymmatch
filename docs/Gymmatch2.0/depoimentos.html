@@ -48,10 +48,7 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 class="display-4">Depoimentos de usuarios</h1>
-      <p class="lead">
-        Gostaria de publicar sua experiencia? Mande uma mensagem para a nossa caixa postal deixando um depoimento
-        relacionado a exercicios fisícos!</p>
-      <p>gymmatch@outlook.com</p>
+     
 
     </div>
 
@@ -148,7 +145,34 @@
   </div>
   </div>
 
-  <img src="contents/gym16.jpg" alt="" id="img02">
+
+    <div class="card" id="cardEmail">
+        <div class="card-body">
+           <p class="lead" id="leadText">
+              Gostaria de publicar sua experiencia? Mande uma mensagem para a nossa caixa postal deixando um depoimento
+              relacionado a exercicios fisícos!
+              <br><br><strong>Contato:</strong> gymmatchprojeto@gmail.com
+            </p>
+                <form action="https://formsubmit.co/gymmatchprojeto@gmail.com" method="POST">
+                    
+                        <input type="text" name="name" placeholder="Digite seu nome:" required >
+                        <input type="email" name="email" placeholder="Digite seu email:" required>
+                        <input type="hidden" name="_captcha" value="false">
+                    
+                      
+                        <textarea class="form-control" name="texto" id="exampleFormControlTextarea1" rows="3" placeholder="Deixe sua mensagem:"></textarea>
+
+                      
+
+                      <button class="btn btn-dark" type="submit" onclick="clicar()">Enviar</button>
+                    
+                </form>
+
+                <img src="contents/gym16.jpg" alt="" id="img02">
+         </div>
+      </div>
+
+
 
   <!--area de texto -->
 
@@ -171,6 +195,8 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF"
     crossorigin="anonymous"></script>
+
+    <script src="depoimentos.js"></script>
 </body>
 
 </html>
