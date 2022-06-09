@@ -80,7 +80,7 @@ h1 {
 /* Daqui pra cima Template padrão */
 
 .card {
-  width: 45%;
+  max-width: 600px;
   display: inline-flex;
   margin-bottom: 2%;
   margin-left: 2%;
@@ -125,13 +125,13 @@ h1 {
 }
 
 #cardEmail {
-  width: 60%;
+  width: 95%;
 }
 
 input {
   border: 1%;
   display: flex;
-  margin:  5px;
+  margin: 5px;
   max-width: 400px;
 }
 
@@ -139,4 +139,11 @@ button {
   margin: 5px;
 }
 
+@media only screen and (max-device-width: 900px) {
 
+  .card {
+    margin-bottom: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+  }
+}
