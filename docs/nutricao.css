@@ -75,13 +75,12 @@ footer {
 }
 
 .card-img-top {
-  width: 900;
-  height: 600px;
+  width: 100%;
 
 }
 
 .card-body {
-  margin: 0 15%;
+  margin: 0 5%;
 }
 
 h1 {
@@ -104,6 +103,6 @@ h1 {
 
 img {
   float: right;
-  width: 30%;
+  width: 45%;
   display: inline-flex;
 }

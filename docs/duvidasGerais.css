@@ -116,15 +116,15 @@ button#enviar {
 }
 
 #accordion {
-  width: 60%;
+  width: 100%;
   float: left;
   display: block;
   min-width: 300px;
 }
 
 .img {
-  width: 40%;
-  float: center;
+  width: 50%;
+  display: flex;
   min-width: 300px;
 }
 
@@ -138,6 +138,7 @@ button#enviar {
 
 .jumbotron {
   background-color: white;
+  width: 95%;
 }
 
 h1 {
