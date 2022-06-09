@@ -101,4 +101,4 @@ RF-09<br>
 > - depoimentos.css
 <p> <strong>Desenvolvedor:</strong> Matheus, Raul, Roberto e Welbscley.
 
-<br><img src="img/pageDepoimentos" alt="depoimentos">
+<br><img src="img/pageDepoimentos.png" alt="depoimentos">
