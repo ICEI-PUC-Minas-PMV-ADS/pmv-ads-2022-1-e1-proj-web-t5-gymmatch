@@ -21,7 +21,9 @@
   <!--Cabeçalho inicio-->
   <header>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <a class="navbar-brand" href="index.html">Gym<span class="cor">match</span></a>
+      <a onclick="clicar()" class="navbar-brand" href="index.html"
+          >Gym<span class="cor">match</span></a
+        >
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText"
         aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -53,7 +55,10 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 class="display-4">Depoimentos de usuarios</h1>
+      <p class="lead" id="leadText">
+        <strong> Veja abaixo alguns Depoimentos enviados pelos nossos leitores</strong> 
      
+      </p>
 
     </div>
   </div>
@@ -145,7 +150,7 @@
   </div>
   </div>
 
-
+ 
  
   <div class="card" id="cardEmail">
     <div class="card-body">
@@ -176,7 +181,7 @@
 </div>
 </div>
 
-  <img src="contents/gym16.jpg" alt="" id="img02">
+<img src="contents/gym16.jpg" alt="" id="img02">
 
 
 
@@ -203,6 +208,12 @@
     crossorigin="anonymous"></script>
 
     <script src="depoimentos.js"></script>
+
+    <script>
+      function clicar() {
+        alert('Seja Bem vindo ao Gymmatch!')
+      }
+    </script>
 </body>
 
 </html>
