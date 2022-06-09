@@ -140,10 +140,10 @@ button {
 }
 
 @media only screen and (max-device-width: 900px) {
-  /*
+
   .card {
     margin-bottom: 2%;
     margin-left: 2%;
     margin-right: 2%;
-  } */
+  }
 }
