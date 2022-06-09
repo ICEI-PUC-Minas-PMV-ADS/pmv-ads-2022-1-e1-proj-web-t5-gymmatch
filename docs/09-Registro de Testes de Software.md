@@ -1,5 +1,7 @@
 # Registro de Testes de Software
 
+###Segue abaixo os registros realizados:
+
 <img src="img/registroCuriosidades.png" alt="Registro de teste 1">
 
 <img src="img/registroPageinicial.png" alt="Registro de teste 2">
