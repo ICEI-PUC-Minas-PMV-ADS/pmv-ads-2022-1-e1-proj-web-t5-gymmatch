@@ -161,9 +161,8 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 |RNF-002| O site deverá ser responsivo permitindo a visualização em um celular de forma adequada. |  ALTA |
 |RNF-003| O site deve ter bom nível de contraste entre os elementos da tela em conformidade. |  MÉDIA | 
 |RNF-004| O site deve ser compatível com os principais fontes e navegadores do mercado (Google Chrome, Firefox, Microsoft Edge). |  ALTA | 
-|RNF-005| Quando o usuário logar na plataforma, deverá ser realizado uma autenticação em captcha. |  MÉDIO | 
-|RNF-006| O usuário deve logar na plataforma com e-mail e senha para agendar a aula. |  MÉDIO | 
-|RNF-007| Uso de componentes gráficos (grids, barras de rolagem, menus). |  ALTA | 
+|RNF-005| Uso de componentes gráficos (grids, barras de rolagem, menus). |  ALTA | 
+
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
