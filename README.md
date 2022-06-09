@@ -19,7 +19,6 @@ sazonais, principalmente, no inverno.
 
 * Matheus de Jesus Santos
 * Maria Luiza Barbosa
-* Flávia Cerqueira
 * Welbscley Lucas
 * Roberto Gontijo
 * Raul Vitor de Resende
