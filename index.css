@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Changa:wght@500&display=swap');
+
+* {
+  margin: auto;
+  padding: 0;
+  box-sizing: border-box;
+  max-width: 2000px;
+}
+
+/* barra de rolagem invisivel */
+::-webkit-scrollbar {
+  width: 0;
+}
+
+
+
+/* menu de navegação */
+.navbar {
+  font-size: 160%;
+  font-family: 'Changa', sans-serif;
+  border-bottom: 2px solid #e4e4e4;
+}
+
+/* animação da barra de navegação */
+.navbar :hover {
+  color: #7C70E4;
+  text-decoration: none;
+}
+
+/* animação botão de login */
+.nav-link :hover {
+  background-color: #7C70E4;
+  border-radius: 10px;
+  color: white;
+}
+
+/* links de navegação */
+.link {
+  padding: 0 15px;
+  color: black;
+}
+
+.navbar-brand {
+  font-size: xx-large;
+}
+
+/* cor da logo */
+.cor {
+  color: #7C70E4;
+}
+
+
+/* Rodapé */
+footer {
+  float: left;
+  width: 100%;
+  max-width: 3000px;
+}
+
+/* Estilo dos botões */
+.btn {
+  border-style: none;
+  background-color: #7C70E4;
+}
+
+/* Daqui pra cima Template padrão */
+
+
+/* Card de conteudo */
+.card-img-top {
+  width: 23%;
+}
+
+.card mb-3 {
+  float: left;
+  max-width: 1200px;
+  margin: 2% 12%;
+}
+
+.card-footer {
+  width: 100%;
+}
+
+.row {
+  margin: 0 1%;
+}
+
+.card-title02 {
+  color: #7C70E4;
+}
+
+/* Conteudo 01 */
+
+#cont01 {
+  padding: 0 2%;
+}
+
+.text-cont01 {
+  font-size: x-large;
+}
+
+.card-title {
+  font-size: x-large;
+}
+
+.card-text {
+  font-size: larger;
+}
+
+.img-fluid {
+  width: 90%;
+  margin: 0 7%;
+}
+
+h1,
+h5 {
+  font-size: 300%;
+
+  color: #7C70E4;
+}
+
+.jumbotron {
+  background-color: white;
+}
+
+
+
+@media screen {}
