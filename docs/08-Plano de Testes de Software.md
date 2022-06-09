@@ -1,6 +1,6 @@
 # Plano de Testes de Software
 
-Segue Abaixo os Planos de teste
+Segue Abaixo os Planos de teste:
 
 <img src="img/ct 01.png" alt="plano de teste 1">
 
