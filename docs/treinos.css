@@ -81,8 +81,7 @@ footer {
 
 
 .card {
-
-
+  max-width: 800px;
   margin-bottom: 4%;
 }
 
@@ -93,11 +92,5 @@ footer {
 
 h1 {
   color: #7C70E4;
-  margin-bottom: 2%;
-}
-
-img {
-  float: right;
-  width: 50%;
-  display: inline-flex;
+  margin-bottom: 1%;
 }

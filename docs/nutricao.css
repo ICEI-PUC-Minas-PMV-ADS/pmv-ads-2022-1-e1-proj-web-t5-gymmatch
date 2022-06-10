@@ -100,9 +100,3 @@ h1 {
 .jumbotron {
   background-color: white;
 }
-
-img {
-  float: right;
-  width: 45%;
-  display: inline-flex;
-}

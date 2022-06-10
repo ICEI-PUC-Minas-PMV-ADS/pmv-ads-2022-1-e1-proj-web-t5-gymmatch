@@ -75,11 +75,7 @@ h5 {
 
 /* Daqui pra cima Template padrão */
 
-img {
-  float: right;
-  width: 50%;
-  display: inline-flex;
-}
+
 
 .jumbotron {
   background-color: white;
@@ -95,11 +91,6 @@ h1 {
   font-size: x-large;
 }
 
-#img01 {
-  float: right;
-  width: 50%;
-  display: inline-flex;
-}
 
 #titulo4 {
   color: black;
