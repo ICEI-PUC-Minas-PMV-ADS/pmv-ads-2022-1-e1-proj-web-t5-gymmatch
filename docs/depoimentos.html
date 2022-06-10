@@ -10,18 +10,16 @@
     integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous" />
   <link rel="stylesheet" href="depoimentos.css" />
   <title>Depoimentos</title>
-  <script>
-    function clicar() {
-      alert('Formulario enviado com sucesso!')
-    }
-  </script>
+  
 </head>
 
 <body>
   <!--Cabeçalho inicio-->
   <header>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <a class="navbar-brand" href="index.html">Gym<span class="cor">match</span></a>
+      <a class="navbar-brand" href="index.html"
+          >Gym<span class="cor">match</span></a
+        >
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText"
         aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -174,7 +172,7 @@
       <input type="hidden" name="_next" value=" https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t5-gymmatch/thanks.html">
       <input type="hidden" name="_captcha" value="false">
     </div>
-    <button class="btn btn-dark" type="submit" onclick="clicar()">Enviar e-mail</button>
+    <button class="btn btn-dark" type="submit" onclick="clicando()">Enviar e-mail</button>
   </form>
 </div>
 </div>
@@ -206,6 +204,14 @@
     crossorigin="anonymous"></script>
 
     <script src="depoimentos.js"></script>
+
+    <script>
+      function clicando () {
+    alert('Formulário enviado com sucesso!')
+}
+    </script>
+
+    
 </body>
 
 </html>

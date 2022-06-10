@@ -6,8 +6,6 @@
 
 `1° Semestre`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
-
 Nosso projeto surgiu da observação da curva de frequentadores de academias no Brasil que nos meses que antecedem o verão
 esse curva tende a subir e em contrapartida, nos meses próximos ao inverno essa curva despenca.
 Diante disso, torna-se fundamental a existência de estratégias que utilizem a tecnologia para estimular os alunos de academias
