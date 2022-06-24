@@ -3,7 +3,7 @@
 ### Segue Abaixo os Planos de teste:
 
 |<img src="img/ct 01.png" alt="plano de teste 1">|
-|------------------------------------------------|
+|Gymmatch|
 |<img src="img/ct 02.png" alt="plano de teste 2">|
 |------------------------------------------------|
 |<img src="img/ct 03.png" alt="plano de teste 3">|
