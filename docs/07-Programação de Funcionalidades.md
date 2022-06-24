@@ -39,11 +39,12 @@ RF-06<br>
 
 <h2>Informações Nutricionais (RF-03 e RF-04)</h2>
 
-<p>O site apresenta informações nutricionais personalizadas com horários e os intervalos recomendados para alimentação, quantidade ideal e os tipos de alimentos indicados para diferentes perfis de alunos. O site apresenta informações sobre os alimentos recomendados para uma alimentação pré-treino.</p>
+<p>O site apresenta uma calculadora IMC e, também, informações nutricionais personalizadas com horários e os intervalos recomendados para alimentação, quantidade ideal e os tipos de alimentos indicados para diferentes perfis de alunos. O site apresenta informações sobre os alimentos recomendados para uma alimentação pré-treino.</p>
 
 <strong>Requisitos atendidos</strong><br>
 RF-03<br>
 RF-04<br>
+RF-10<br>
 
 <strong>Artefatos de funcionalidade</strong><br>
  Artefatos usados para o desenvolvimento da pagina
@@ -52,7 +53,7 @@ RF-04<br>
 > - nutricao.css
 <p> <strong>Desenvolvedor:</strong> Roberto.
 
-<br><img src="img/pageDicasNutricionais.png" alt="informaçõesnutricionais">
+<br><img src="img/PageDicasNutricionais.png" alt="informaçõesnutricionais">
 
 <h2>Curiosidades (RF-07)</h2>
 
