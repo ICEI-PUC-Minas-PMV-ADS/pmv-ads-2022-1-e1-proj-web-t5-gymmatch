@@ -47,19 +47,88 @@
   </header>
   <!--Cabeçalho Final-->
 
-  <div class="jumbotron jumbotron-fluid">
-    <div class="container">
-      <img src="contents/gym12.jpg" alt="">
-      <h1 class="display-3">Pré Treino</h1>
 
-      <p class="lead-text">
-        <br>
+
+  <div class="container" id="calculo">
+  
+    
+    <div class="row">
+      
+      <div class="col-md-5">
+        <h1 class="display-3">Cálculo IMC</h1>
+        <p class="lead">
+          <br>
+          O IMC é um cálculo simples que permite avaliar se a pessoa está dentro do peso que é considerado ideal para a sua altura. Também conhecido como Índice de Massa Corporal, o IMC é uma fórmula utilizada por vários profissionais de saúde, incluindo médicos, enfermeiros e nutricionistas, para saber, de uma forma rápida, se a pessoa precisa ganhar ou perder peso.</p>
+      </div>
+      <div class="col-md-7">
+        <div class="card">
+          <div class="card-body">
+            <h5 class="display-4">Calculadora de IMC</h5>
+        <div class="container">
+
+          <div class="input-group input-group-sm mb-3">
+            <div class="input-group-prepend">
+              <span class="input-group-text" id="inputGroup-sizing-sm">Nome</span>
+            </div>
+            <input type="text" id="nome" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
+          </div>
+
+         
+          <div class="input-group input-group-sm mb-3">
+            <div class="input-group-prepend">
+              <span class="input-group-text" id="inputGroup-sizing-sm">Altura</span>
+            </div>
+            <input type="number" id="altura" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
+          </div>
+
+         
+
+          <div class="input-group input-group-sm mb-3">
+            <div class="input-group-prepend">
+              <span class="input-group-text" id="inputGroup-sizing-sm">Peso</span>
+            </div>
+            <input type="number" id='peso' class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
+          </div>
+
+         
+    
+          <button type="button" class="btn btn-dark" id='calcular'>Calcular</button>
+          <div class="result" id='resultado'></div>
+          
+        </div>
+      </div>
+    </div>
+      </div>
+    </div>
+  </div>
+
+
+    
+
+    <script src="./imc.js"></script>
+
+
+  <div class="container">
+    <h1 class="display-3">Pré Treino</h1>
+     
+    <div class="row">
+      <div class="col-md-7">
+        <p class="lead">
+          <br>
         A alimentação pré treino é importante para fornecer energia para o corpo. </br>
         Seja qual for o seu tipo de treino, o corpo necessita de energia que será usada durante e atividade física.
         <br>Alimentos leves são uma boa opção, devido ao fato destes alimentos serem de fácil digestão e por proporcionar energia suficiente para
         o corpo.</br> Outra <strong>dica importante</strong> é comer em até 30 minutos antes do treino para evitar
-        enjoos e mal estar.
-      </p>
+        enjoos e mal estar.</p>
+      </div>
+      <div class="col-md-5">
+        <img src="contents/gym12.jpg" class="img-fluid" alt="img">
+      </div>
+    </div>
+  </div>
+  
+  
+
 
       <h1 class="display-4"> 4 Lanches pré-treino rápidos e práticos </h1>
 
@@ -177,6 +246,7 @@
 
       <!--Pós treino daqui pra baixo -->
 
+      <div class="container">
       <h1 class="display-3">Pós Treino</h1>
       <p class="lead-text">
         <br>
@@ -189,6 +259,7 @@
         <br>As proteínas de qualidade auxiliam o corpo por conter aminoácidos que auxiliam o músculo a se recuperar.
         </br>
       </p>
+  </div>
 
       <h1 class="display-4"> 4 Lanches Pós-treino rápidos e práticos </h1>
       <div class="card mb-3">
