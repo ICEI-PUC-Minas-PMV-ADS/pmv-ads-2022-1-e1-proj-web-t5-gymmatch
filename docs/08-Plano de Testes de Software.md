@@ -8,7 +8,7 @@
 
 <img src="img/ct 03.png" alt="plano de teste 3">
 
-<img src="img/ct 12.png" alt="plano de teste 4">
+<img src="img/ct 13.png" alt="plano de teste 4">
 
 <img src="img/ct 05.png" alt="plano de teste 5">
 
