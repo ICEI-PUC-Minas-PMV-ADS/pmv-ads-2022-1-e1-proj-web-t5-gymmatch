@@ -132,7 +132,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Aluno Marcelo Falcão| Quero saber como fazer uma alimentação pré-treino.| Porque preciso ter energia e estar preparado para a realização das atividades durante os treinos na academia.|   
 |Aluna Clara Rezende | Gostaria de poder publicar o meu relato na internet, juntamente com a minha experiência praticando treino na academia.|Para que eu possa incentivar outras pessoas que possuem interesse em praticar atividades físicas, compartilhando o meu processo de adaptação e os resultados obtidos.|   
 |Aluna Rafaela Santos| Quero poder divulgar dicas de treinos e treinos para os alunos poderem praticar. | Para facilitar aos alunos o acesso à informação e orientá-los sobre a forma correta de se executar um treino na academia.|   
-|Aluno Marcelo Falcão|Desejo ter dicas e acompanhamento especial para obter resultados hipertróficos na academia.|Porque meu interesse em praticar atividades físicas está na melhora da minha aparência física, busco ter um corpo mais definido.|   
+|Aluno Marcelo Falcão|Desejo ter dicas e acompanhamento especial para obter resultados hipertróficos na academia.|Porque meu interesse em praticar atividades físicas está na melhora da minha aparência física, busco ter um corpo mais definido.| 
+|Aluna Rafaela Santos| Quero poder calcular meu IMC. | Para facilitar aos alunos na ora de orientá-los com dieta e treino.|    
 
 
 ## Requisitos
@@ -152,6 +153,7 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 |RF-007| O site deve apresentar curiosidades, informações pouco conhecidas sobre atividades físicas em dias frios para conscientização e motivação do usuário. | MÉDIA |
 |RF-008| O site deve apresentar na página inicial atalhos do conteúdo que será disponibilizado no site, facilitando a navegação. | MÉDIA |
 |RF-009| O site deve apresentar um espaço para o usuário enviar seu relato/experiência. | MÉDIA |
+|RF-010| O site deve apresentar um espaço para o usuário calcular seu IMC. | MÉDIA |
 
 ### Requisitos não Funcionais
 
