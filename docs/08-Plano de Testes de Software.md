@@ -2,7 +2,7 @@
 
 ### Segue Abaixo os Planos de teste:
 
-<img src="img/ct 01.png" alt="plano de teste 1">
+:-- <img src="img/ct 01.png" alt="plano de teste 1"> --:
 
 <img src="img/ct 02.png" alt="plano de teste 2">
 
