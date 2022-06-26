@@ -1,6 +1,6 @@
 # Referências
 
-<p>Referências utilizados no desenvolvimento do projeto.</p><br><br>
+<h2>Referências utilizados no desenvolvimento do projeto:</h2><br><br>
 
 <p>FRIO PROVOCA REDUÇÃO NA FREQUÊNCIA DE ALUNOS EM ACADEMIAS DA REGIÃO. g1.globo.com, 2014.  Disponível em:https://g1.globo.com/sao-paulo/itapetininga-regiao/noticia/2014/06/frio-provoca-reducao-na-frequencia-de-alunos-em-academias-da-regiao.html Acesso em: 10 de março de 2022.</p><br><br>
 
